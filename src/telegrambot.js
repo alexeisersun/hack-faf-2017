@@ -19,6 +19,7 @@
 const apiai = require('apiai');
 const uuid = require('node-uuid');
 const request = require('request');
+const converter = require('./converter')
 
 module.exports = class TelegramBot {
 
@@ -127,31 +128,39 @@ module.exports = class TelegramBot {
                     if (TelegramBot.isDefined(response.result)) {
                         let responseText = response.result.fulfillment.speech;
                         let responseData = response.result.fulfillment.data;
+                        let responseIntent = response.result.metadata.intentName;
 
                         if (TelegramBot.isDefined(responseData) && TelegramBot.isDefined(responseData.telegram)) {
-
-                            console.log('Response as formatted message');
-
+                            // console.log('Response as formatted message');
                             let telegramMessage = responseData.telegram;
                             telegramMessage.chat_id = chatId;
-
                             this.reply(telegramMessage);
                             TelegramBot.createResponse(res, 200, 'Message processed');
 
                         } else if (TelegramBot.isDefined(responseText)) {
-                            console.log('Response as text message');
-                            this.reply({
-                                chat_id: chatId,
-                                text: responseText
-                            });
-                            TelegramBot.createResponse(res, 200, 'Message processed');
+                            // console.log('Response as text message');
 
+                            if (responseIntent === "money.convertor.currency")
+                                converter.convert(1, "USD", "MDL").then((val) => {
+                                    this.reply({chat_id: chatId, text: responseText + val});
+                                    TelegramBot.createResponse(res, 200, 'Message processed');
+                                }); 
+
+
+
+
+
+                            else {
+                                this.reply({chat_id: chatId, text: responseText});
+                                TelegramBot.createResponse(res, 200, 'Message processed');
+                            }
+                            
                         } else {
-                            console.log('Received empty speech');
+                            // console.log('Received empty speech');
                             TelegramBot.createResponse(res, 200, 'Received empty speech');
                         }
                     } else {
-                        console.log('Received empty result');
+                        // console.log('Received empty result');
                         TelegramBot.createResponse(res, 200, 'Received empty result');
                     }
                 });
@@ -163,11 +172,11 @@ module.exports = class TelegramBot {
                 apiaiRequest.end();
             }
             else {
-                console.log('Empty message');
+                // console.log('Empty message');
                 return TelegramBot.createResponse(res, 200, 'Empty message');
             }
         } else {
-            console.log('Empty message');
+            // console.log('Empty message');
             return TelegramBot.createResponse(res, 200, 'Empty message');
         }
     }
@@ -211,4 +220,5 @@ module.exports = class TelegramBot {
 
         return obj != null;
     }
+
 }
