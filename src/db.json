@@ -1,0 +1,4131 @@
+{
+  "data": {
+    "accounts": [{
+      "name": "12345678",
+      "currency_code": "MDL",
+      "balance": -2436.16,
+      "extra": {
+        "blocked_amount": 0.0,
+        "available_amount": 198.87
+      },
+      "nature": "account",
+      "transactions": [{
+        "made_on": "2017-07-01",
+        "amount": -118.02,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "9653a61656b3d6d506d7a8013ce8b6c273cd0a2a4c17f7b818cb6d966bd89e66"
+      }, {
+        "made_on": "2017-07-01",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "1eed2841322935fba858ecc9f4beb7d9d20a52fa6598d1c6c47c2a8c90d2b3bd"
+      }, {
+        "made_on": "2017-07-01",
+        "amount": 15.0,
+        "currency_code": "MDL",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "1606cfca3bf224516e018c75a10b71e98612bf2b2fcf36a45b9468c0d3040e73"
+      }, {
+        "made_on": "2017-07-02",
+        "amount": -269.38,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "3acf4ab355d1d8b2f5d906d63a8dbafeedf383e72fc56105bbc1d3acd5470ed0"
+      }, {
+        "made_on": "2017-07-03",
+        "amount": -32.99,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "f2c763707d2bdf92a2a060bd8a6994468332e26c4b870e466cffcb0ce0d2d21b"
+      }, {
+        "made_on": "2017-07-10",
+        "amount": -380.0,
+        "currency_code": "MDL",
+        "description": "Retail Plati billing wb.micb.md Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "bf2c52281ceae6a43b88cb58dead4a722333484c9ec8cff4031da7edc7636f74"
+      }, {
+        "made_on": "2017-07-10",
+        "amount": -430.0,
+        "currency_code": "MDL",
+        "description": "Retail Plati billing wb.micb.md Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "dcb54f58ccf022ccb8f462c7f0a72e908a8b4a699a70d1552f352c43db17d657"
+      }, {
+        "made_on": "2017-07-10",
+        "amount": -425.0,
+        "currency_code": "MDL",
+        "description": "Retail Plati billing wb.micb.md Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "620223b09e83a3fdf90959557cc099917a34b43afa368a1e074606fb0ab0f8f9"
+      }, {
+        "made_on": "2017-07-10",
+        "amount": -380.0,
+        "currency_code": "MDL",
+        "description": "Moldcell",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Phone"
+        },
+        "status": "posted",
+        "checksum": "138067fe17d3572c0d989087a89200f86a02e996fcfcb10721bea024b82b539e"
+      }, {
+        "made_on": "2017-07-10",
+        "amount": -430.0,
+        "currency_code": "MDL",
+        "description": "Moldcell",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Phone"
+        },
+        "status": "posted",
+        "checksum": "3276a45822fd0c1293d1aeff763a320295f464615f81d9fb17ab4f0fbc723d3d"
+      }, {
+        "made_on": "2017-07-10",
+        "amount": -425.0,
+        "currency_code": "MDL",
+        "description": "Orange",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Phone"
+        },
+        "status": "posted",
+        "checksum": "4e10c151b46eff913269d03597f1542732d06fad2cc4dd65e2ff9e91d7e81ea0"
+      }, {
+        "made_on": "2017-07-10",
+        "amount": -2000.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Home"
+        },
+        "status": "posted",
+        "checksum": "3d99d8794c649b11800871257c2d0edd006ca7d1a03830e0802f2dc8ccd5e4c5"
+      }, {
+        "made_on": "2017-07-10",
+        "amount": 7192.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "c4715787e07e7ed83f26134bfd6050507a729dd6363b16bae4f7ab2dfc78647d"
+      }, {
+        "made_on": "2017-07-11",
+        "amount": -367.25,
+        "currency_code": "MDL",
+        "description": "Retail METRO CASH\u0026CARRY CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "75da06ef01991376518a5b09601bc0ef07c9be6225ed2b563a31eecc0f23f6d2"
+      }, {
+        "made_on": "2017-07-11",
+        "amount": -826.2,
+        "currency_code": "MDL",
+        "description": "Retail EB RUBY MEDITATION 16 8014137200 United States",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "759c95fbd28c50f3271dd13d2d61139255bf4a5c7da73b1edc371370e4a12b62"
+      }, {
+        "made_on": "2017-07-11",
+        "amount": -413.1,
+        "currency_code": "MDL",
+        "description": "Retail EB RUBY MEDITATION 16 8014137200 United States",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "166f124fda5660236e9378de908eef2ae73f3f0df206bc46468b08be2c87027b"
+      }, {
+        "made_on": "2017-07-11",
+        "amount": -75.76,
+        "currency_code": "MDL",
+        "description": "Retail MAIB ROGOB MARKET Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "43fcc27b2517032e29bfc5c57f1d08d0f009bb8b089f49c834801180077aa819"
+      }, {
+        "made_on": "2017-07-11",
+        "amount": -164.85,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "5b96b0e4ff2eddd85ecc2a49ed8c595c82ceb11f76d09c07c2e0d5cb83490c0e"
+      }, {
+        "made_on": "2017-07-12",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "Card P2P Debit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "9f03a31900d5ea0e3657d3d4f3c705b5f2316ae97ddbcdc57188e36d3492c23e"
+      }, {
+        "made_on": "2017-07-12",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "1b76692f5724946a34393a84b7b809cb8f558b1ce78b652b3d1bf843aa6208b7"
+      }, {
+        "made_on": "2017-07-12",
+        "amount": -1000.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "6603cf0f3c3f6f6bbb6f0f6a6bd787ebde247e4d1a46b80c042e6e68122cc861"
+      }, {
+        "made_on": "2017-07-13",
+        "amount": -330.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shipping"
+        },
+        "status": "posted",
+        "checksum": "02cf103042df08e4c39005a7e1af8a045a5b04e50ea387935acb1d92be33efcc"
+      }, {
+        "made_on": "2017-07-14",
+        "amount": -153.69,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "26ea718a4fc8f3625ae99170e665f65817fd9df304ba8aa78164cd9ada3a8a37"
+      }, {
+        "made_on": "2017-07-14",
+        "amount": -73.44,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market B Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "b55dcd604953f7963cc105edf20f30d16468dbad7080f00cd498b581d377eff7"
+      }, {
+        "made_on": "2017-07-14",
+        "amount": -200.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "7eefd751757dc79130846c794e1926be91b7bb94015369a65ac8eb345cf3b0ed"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": -77.2,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "b5762819e1ae6376ff472f14c237fb0fc2d6b5a5a0e8283e5763cb498a6595a8"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "064411e8d608580ae2088d09f4aedbe322b4fb47d685086a8d7b86adffc10b85"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": 234.0,
+        "currency_code": "MDL",
+        "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "bb759063b2f83bcec5d5c1e4e6e40d5e92f0f04c7b67ea09be960a59a972fd22"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": 270.0,
+        "currency_code": "MDL",
+        "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "176f46be6bd7d611fabcd009632a6541eebfa25200ca6bab23ec463e4ffa9fdc"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": 35.0,
+        "currency_code": "MDL",
+        "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "c7ca15585ee660a1b21645205ecd8db7a5854c31d61520b01bdfcee8f1ea73e4"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": -200.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "413f0bbd41633872d66f4422423dbc9780eff4aea6477a59887b3709e3980699"
+      }, {
+        "made_on": "2017-07-18",
+        "amount": -44.4,
+        "currency_code": "MDL",
+        "description": "Retail \"NPP COMERT\" Magazin B Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "1bfc2dfd08aeb2e30f9298dfc2dc41e481e11d19cae3ac919de3180039775fc4"
+      }, {
+        "made_on": "2017-07-21",
+        "amount": 959.02,
+        "currency_code": "MDL",
+        "description": "Creditare card FLYONE.AERO CHISINAU Russia",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Service Fee"
+        },
+        "status": "posted",
+        "checksum": "9306e78e53db5de51b0537c5d5a2c82c368ba2dcf97a71e58cc73f16a027dd2b"
+      }, {
+        "made_on": "2017-07-21",
+        "amount": 959.02,
+        "currency_code": "MDL",
+        "description": "Creditare card FLYONE.AERO CHISINAU Russia",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Service Fee"
+        },
+        "status": "posted",
+        "initial_checksum": "9306e78e53db5de51b0537c5d5a2c82c368ba2dcf97a71e58cc73f16a027dd2b",
+        "checksum": "5a43809a5831ca6baa7d4c1ff95ea7b374f1e8ac3fdff0d192c8fe93a8c1ef6f"
+      }, {
+        "made_on": "2017-07-22",
+        "amount": -141.99,
+        "currency_code": "MDL",
+        "description": "Retail PEGAS_PETRICANI 3 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "87619329eef67c1c9118d45d1d5170df5d04738cc9d144744cb4456a9274bd26"
+      }, {
+        "made_on": "2017-07-22",
+        "amount": -117.0,
+        "currency_code": "MDL",
+        "description": "Retail McDonald Rascani 1 MAI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Cafes \u0026 Restaurants"
+        },
+        "status": "posted",
+        "checksum": "675347c33af4a22820556e7a903560b781f98c04ddd8a35744da6ef398372952"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": -20.0,
+        "currency_code": "MDL",
+        "description": "Card P2P Debit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "42085cfcff25851c86cdff6667602fe2bf7b807f58058a984ee87efdcb36e4a4"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": -20.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "857b86c220511f0b8cf57d8a20e427b288a5ca506e29803bfe8d23993ff37268"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": -200.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "648a361b1898c79baffdfa6b01f34caea213072aabeaa21552601368f6d44625"
+      }, {
+        "made_on": "2017-07-24",
+        "amount": -66.87,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "37c1bb92ef178ba0697b4460d3c069f5763edb9449471a69dbd76de82c598f63"
+      }, {
+        "made_on": "2017-07-24",
+        "amount": -3600.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "d4e1a4f3c49330f5e57ddf48a46964073a84836fb1aab45ef81c8ef2b1a40107"
+      }, {
+        "made_on": "2017-07-24",
+        "amount": 3600.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "43c15b48532d0a7d2c7bf10181dea0a17bf4ab2449b7600fa354bf33a1863e2d"
+      }, {
+        "made_on": "2017-07-25",
+        "amount": -143.87,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "91c9cf36e091de7ac6188b037c98fda4c194ced634f0c13dd4d4f7d77d4b6e4f"
+      }, {
+        "made_on": "2017-07-25",
+        "amount": -49.71,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market C Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "16a8b871333d866c65be7493e2a8a4fd3b7f586e14b60fc5121ef917a6b8b75c"
+      }, {
+        "made_on": "2017-07-25",
+        "amount": -500.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "faa5249b879adaf7483650193c03b231bbb51c2b2783e68bf236927d151386c1"
+      }, {
+        "made_on": "2017-07-28",
+        "amount": -187.39,
+        "currency_code": "MDL",
+        "description": "Gas Natural Fenosa (Furnizare energie)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "c4aa9a0365ac2da14e5e47c7783c440d227cda7e3d29c722c476c12c1e8a7346"
+      }, {
+        "made_on": "2017-07-28",
+        "amount": -2.0,
+        "currency_code": "MDL",
+        "description": "INFOcom",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "4dec85e7e6c3b851b1c168b7088caa3799d64192fceced004b82ea3c7ccdfea1"
+      }, {
+        "made_on": "2017-07-28",
+        "amount": -68.04,
+        "currency_code": "MDL",
+        "description": "Info Bon (Termoelectrica)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "296e42cc0db58a9365eb0b5385b0c83e364c2263681b0079a1a4f27ca4a857cd"
+      }, {
+        "made_on": "2017-07-28",
+        "amount": -24.0,
+        "currency_code": "MDL",
+        "description": "Moldtelecom - Telefonie fixă",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bills"
+        },
+        "status": "posted",
+        "checksum": "80ccc71ccc720f5be42a39a91f1a279543a76ca8c2c92a0dd42dda7bc03f6027"
+      }, {
+        "made_on": "2017-07-28",
+        "amount": -210.0,
+        "currency_code": "MDL",
+        "description": "StarNet",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Internet \u0026 TV"
+        },
+        "status": "posted",
+        "checksum": "d4847e67643f9c48fd6b9e09acff4433fd3217102a28ac7e132681d9c348dd5c"
+      }, {
+        "made_on": "2017-07-30",
+        "amount": -144.0,
+        "currency_code": "MDL",
+        "description": "Retail McDonald Botanica 1 MA Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Cafes \u0026 Restaurants"
+        },
+        "status": "posted",
+        "checksum": "63d31396143d09c8f09c6086a412b2d5f5bb38052a3f111bc0d69e88bc9b545b"
+      }, {
+        "made_on": "2017-07-30",
+        "amount": -353.36,
+        "currency_code": "MDL",
+        "description": "Retail \"NR.1\" Supermarket C Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "95fa8aa97d575fe7ab41b7904054bb5917d270a4ea7d3bab5588ff3927d30fb6"
+      }, {
+        "made_on": "2017-07-31",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "RF: Taxa lunara deservire cont",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bank Fees"
+        },
+        "status": "posted",
+        "checksum": "35fd19e3eaa90fc137e3bce423d1022e822ee3178ea10207bde0235aaebd565b"
+      }, {
+        "made_on": "2017-07-31",
+        "amount": 0.43,
+        "currency_code": "MDL",
+        "description": "Cl Deposit Int Due Special",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "9845b057004ab880dbce8ef6eb24206f8303432f5933faecc3492fc9c8d96f67"
+      }, {
+        "made_on": "2017-08-01",
+        "amount": 15.0,
+        "currency_code": "MDL",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "1a224e20fcd69dd11711bf8a0cc4e39d29fd246fd7e74214c8c5538766197618"
+      }, {
+        "made_on": "2017-08-01",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "7d0ebfa02262738a6fe08e297358a982936951689880dfc5e9a5acaf8730d3ae"
+      }, {
+        "made_on": "2017-08-02",
+        "amount": -83.67,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "df9782e9cfcdc20975aac2fe0ef8e23edc88955016a951bb6612af927ee8f779"
+      }, {
+        "made_on": "2017-08-02",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "3b552b1f6357ecdf9735a725384ced10a8a7945b85692d4cb6c7b26ed475a15b"
+      }, {
+        "made_on": "2017-08-02",
+        "amount": 89.2,
+        "currency_code": "MDL",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "18a05fc83f97a16c5acde7c004246948d4c59d3574712507b4211b6543ec9bee"
+      }, {
+        "made_on": "2017-08-03",
+        "amount": 1244.6,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "33d44f65f060c7a9623fb135eb40829af98866b87fac05b7ef5063b37d05e926"
+      }, {
+        "made_on": "2017-08-03",
+        "amount": -60.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "61abe206e5d093ccb4cabb9a376feb1181c7a4cee603ce94833937d53dcb7edc"
+      }, {
+        "made_on": "2017-08-04",
+        "amount": -14.0,
+        "currency_code": "MDL",
+        "description": "Retail McDonald Rascani 1 MAI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Cafes \u0026 Restaurants"
+        },
+        "status": "posted",
+        "checksum": "5b3e065ff2c40cf5e33ecff7497e01abcd40cd3bad2e9b04be73cc24f03100ba"
+      }, {
+        "made_on": "2017-08-04",
+        "amount": -193.0,
+        "currency_code": "MDL",
+        "description": "Retail McDonald Rascani 1 MAI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Cafes \u0026 Restaurants"
+        },
+        "status": "posted",
+        "checksum": "dc60768de8df8ab230929eee6c33958afeb1d99c66651e6a71121f89cf457680"
+      }, {
+        "made_on": "2017-08-04",
+        "amount": 88.6,
+        "currency_code": "MDL",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "33fc90bc521c281d16f7a729498e0909b043440da90c8b35fde3b4cfe86d5642"
+      }, {
+        "made_on": "2017-08-04",
+        "amount": -1100.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "3e3e168c614b9db82e4a76a5988ac0d7d7349b22316ccf042edef96c04bfc4ad"
+      }, {
+        "made_on": "2017-08-10",
+        "amount": -293.91,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "c475c1369fb56f28926124fc4d0f0ff6233887cadab7a6fcbd6638b62c54f7af"
+      }, {
+        "made_on": "2017-08-10",
+        "amount": 1774.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "df1f5fb91de8937a6898e1ca8386948900c95239a40e3323d4962e1d99b3eb7f"
+      }, {
+        "made_on": "2017-08-11",
+        "amount": -110.85,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "28e79f5fbd92c773070eca350123b2d68361dc6955469f9af3ff2e09f9a9c5a0"
+      }, {
+        "made_on": "2017-08-11",
+        "amount": -212.94,
+        "currency_code": "MDL",
+        "description": "ATM ATM VICTORIABANK 122 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "e3a96cfccb87f1b79f54f45ad772b14ed7eae448aaea0bf80e208ba6b3ac051f"
+      }, {
+        "made_on": "2017-08-11",
+        "amount": -71.6,
+        "currency_code": "MDL",
+        "description": "Retail \"NPP COMERT\" Magazin A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "88c6c261d4051fc17de412f506e3fabc83e0d45bb34636c93de4350f7c90e727"
+      }, {
+        "made_on": "2017-08-12",
+        "amount": -63.18,
+        "currency_code": "MDL",
+        "description": "Retail MAIB ROGOB MARKET Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "436cd5371073cc41fc7a77f8646b717163dccaf6911ce3e730a8aea8792e7fcb"
+      }, {
+        "made_on": "2017-08-12",
+        "amount": -143.79,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "4c9f00663c087e7f890a917f1113c8083f07e54f438a3d53055ac8ba43e41c83"
+      }, {
+        "made_on": "2017-08-12",
+        "amount": -270.26,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market C Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "4d17077aa66812c2904e93975406a293f1bb7ebdcfa53e0560f71c685ca9ded8"
+      }, {
+        "made_on": "2017-08-13",
+        "amount": -193.54,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "a5dd0c188976d6f8bfa9c67d2a2bb36449d23f2cf4ac689fb0e53568f44b27b8"
+      }, {
+        "made_on": "2017-08-13",
+        "amount": -278.68,
+        "currency_code": "MDL",
+        "description": "Retail \"NR.1\" Supermarket D Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "fc67dd76b8dc6b38f99ea7ef83a349ad972da572eecc70897ff4da1f4fd153fa"
+      }, {
+        "made_on": "2017-08-15",
+        "amount": -442.96,
+        "currency_code": "MDL",
+        "description": "Retail MAIB FARM FAM Moscovei Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "da8f6b8d52d3c4d1f1abb8613c04c404f3f2ac388e295085d53337449cce535e"
+      }, {
+        "made_on": "2017-08-15",
+        "amount": 886.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "835bfa7093b19f50ff3bc7bcb3501df3751d9d56a4c9316235048060bb7b5ac6"
+      }, {
+        "made_on": "2017-08-16",
+        "amount": -150.0,
+        "currency_code": "MDL",
+        "description": "Card P2P Debit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "4b7f0c9008a60686ab0ab7b841bd3f9272ed59c4559a7dce462de85dad6e30d8"
+      }, {
+        "made_on": "2017-08-16",
+        "amount": -51.07,
+        "currency_code": "MDL",
+        "description": "Retail LUKOIL P314 TECUCI2 DE TECUCI Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "6cb15c10b3ce60aa0c3b6ffe572f891ecbd2c466e4a9706ae93c7c2c7c7346d4"
+      }, {
+        "made_on": "2017-08-16",
+        "amount": -189.18,
+        "currency_code": "MDL",
+        "description": "Retail OMV 1187/ Risesti Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "9e41ec9ea129f5f3a8fe335672ca89d3b41f1189d08d2a154088ad58738c4db6"
+      }, {
+        "made_on": "2017-08-16",
+        "amount": -42.55,
+        "currency_code": "MDL",
+        "description": "Retail LUKOIL PECO-28 HINCESTI Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "0f10f54ef8ffea760eb86d86148c709853a95d82886c403decf0f56b302f989e"
+      }, {
+        "made_on": "2017-08-16",
+        "amount": -150.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "14e9e7dcc121a10d2d39635b63214f3f3da3d1998a0c7bb0d41e04f30dc36756"
+      }, {
+        "made_on": "2017-08-17",
+        "amount": -132.45,
+        "currency_code": "MDL",
+        "description": "Retail MAIB LINELLA 25 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "e4faa34bfbcababe1767b58a7f073529292d56f3cbc2ea304be411aee7481bd5"
+      }, {
+        "made_on": "2017-08-17",
+        "amount": -293.88,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "dcd7d29974e7ec3dc3fafa8b46e24a2aba34a347ce542b73f9e0cbc440edd8ff"
+      }, {
+        "made_on": "2017-08-17",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "92d088bf4af4fb5324b5f61c6f3445935ce6b1c1aa526c9436bf2e4bb3bdfa09"
+      }, {
+        "made_on": "2017-08-17",
+        "amount": -102.1,
+        "currency_code": "MDL",
+        "description": "Retail \"CRAFTI RETAIL\" Moscova Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Books \u0026 Supplies"
+        },
+        "status": "posted",
+        "checksum": "a745139933acfb021250a7bda9f42fd7338e8ac37ce2af495bacd8cc0d53d672"
+      }, {
+        "made_on": "2017-08-17",
+        "amount": -200.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "4a3b5ceab57b6a5a49384ccd32debf995551e5817acd12f0a2b937c29687b7ea"
+      }, {
+        "made_on": "2017-08-17",
+        "amount": 1770.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "73266173fdd57da986dc38def5b3aaf857a5dda147d2c7ddeacc9e700c053922"
+      }, {
+        "made_on": "2017-08-18",
+        "amount": -209.77,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "6d179d84dbe852ddb7ca922bcec50b7f5bd8c79fa7d9901280fc983f3e1f972e"
+      }, {
+        "made_on": "2017-08-18",
+        "amount": -32.55,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "8b32423753da4db992858169454ba7ac2450b096e3b8ed1541ad94e666c89265"
+      }, {
+        "made_on": "2017-08-18",
+        "amount": -229.88,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "b3751cd1867844bba903b68c45b7f88c9a11dff304c57fbd7f27c597b44b0b93"
+      }, {
+        "made_on": "2017-08-19",
+        "amount": -61.75,
+        "currency_code": "MDL",
+        "description": "Retail BONUS 2 CASA 1 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "1af4603564a5f659dd48e45b909361f7bc27dde4b4aea22d40dd542534d6e583"
+      }, {
+        "made_on": "2017-08-19",
+        "amount": -507.0,
+        "currency_code": "MDL",
+        "description": "Retail Caruso (Centru) CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "bc10384976a36a4b525b44c9096d660fe20b71f043d03cee505348e842453c8c"
+      }, {
+        "made_on": "2017-08-20",
+        "amount": -72.44,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "efa633f7a027063fd1a07f7802a7d349c8114901e4f606b95348a23a3a66eb31"
+      }, {
+        "made_on": "2017-08-20",
+        "amount": 1768.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "dd56146f3470c4e52930da19e4376f0fe91797ecc65f41b2d3e926667f5d22fb"
+      }, {
+        "made_on": "2017-08-20",
+        "amount": -72.33,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market C Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "73f7b97470e84c7b6d63c91c84643ab44ea135cea194c62dbaea60307fe333ec"
+      }, {
+        "made_on": "2017-08-20",
+        "amount": 88.4,
+        "currency_code": "MDL",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "c74a698454f21b648dc06acc9a99dffc2383e3da5bc237cd0a781ece16fd4a9c"
+      }, {
+        "made_on": "2017-08-21",
+        "amount": -450.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "648bde4a0f311f43b85df392d7788b66a0cadb1909e1abcdd532ed1b28f3b755"
+      }, {
+        "made_on": "2017-08-22",
+        "amount": -515.5,
+        "currency_code": "MDL",
+        "description": "Retail METRO CASH\u0026CARRY CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "4d26a6e855c7c5bb9e7e7f7b9187dd85ddad32e97e4a72c36bbcbaa33a33e134"
+      }, {
+        "made_on": "2017-08-23",
+        "amount": -16.79,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "bd446d22870cab61ce73d41280f1111b08e250e36e81457f85c5bc257398091c"
+      }, {
+        "made_on": "2017-08-23",
+        "amount": -287.0,
+        "currency_code": "MDL",
+        "description": "Orange",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Phone"
+        },
+        "status": "posted",
+        "checksum": "e4163723a38ccaac72392c4c8a6c0bd7486ff430145eddc8b22c9f5ef7186e2f"
+      }, {
+        "made_on": "2017-08-24",
+        "amount": -107.79,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "c1c539b1622f93dc753587306e3f74b9d89770ae9e4241c3d874408abf9b2410"
+      }, {
+        "made_on": "2017-08-24",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "950df9b8535b94c3f6a716f007a95bd76be6cf61f1d798a17adbb4cbbbc59fde"
+      }, {
+        "made_on": "2017-08-25",
+        "amount": -96.44,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "279b33870f93f1339638ee26e3d70977063a135ccc2b302b98bd9a9338d12760"
+      }, {
+        "made_on": "2017-08-25",
+        "amount": -50.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "59a5c1e9820954a5af487cec8098bd72f376732ac988c182fdbd83b5eb78f0c0"
+      }, {
+        "made_on": "2017-08-26",
+        "amount": -124.83,
+        "currency_code": "MDL",
+        "description": "Retail PEGAS_PETRICANI 3 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "feb9e2407e548086b2e916f7db6f6cd0daffce4e66cbbc86d4bbcbb57b8d62f6"
+      }, {
+        "made_on": "2017-08-26",
+        "amount": -78.48,
+        "currency_code": "MDL",
+        "description": "Retail MAIB ROGOB MARKET Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "8a1264028e8eb3f0aeea5cd92d84aa18bdaf66f5e41286c37fc6ef353ef47d81"
+      }, {
+        "made_on": "2017-08-26",
+        "amount": -76.58,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "cf393cf70ba807b2ea3d3d4ddf3993afbce15a8919340f188c3275c8b5abb495"
+      }, {
+        "made_on": "2017-08-26",
+        "amount": 354.6,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "a94ec569b9dbd7cac5723ae969b22dd95d094ae6dde7a304a49e8b7c400897ce"
+      }, {
+        "made_on": "2017-08-27",
+        "amount": -205.52,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "f4e0c393a83d08ae478bcdd011ea54c42746407fd63d0bd107e48d68a64b6332"
+      }, {
+        "made_on": "2017-08-28",
+        "amount": -500.0,
+        "currency_code": "MDL",
+        "description": "Card P2P Debit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "c616b88f7d56aa63ad85ecf8755ef51b991a84a6ff56423c9b26eb23eba1bd70"
+      }, {
+        "made_on": "2017-08-28",
+        "amount": -86.0,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "69210935945f5b14e78f884b4ff981832d5284aef1f8b713e1fbe5f9fa3f11d5"
+      }, {
+        "made_on": "2017-08-28",
+        "amount": -500.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "c87161918b17630846c8a8097383b463162218a00d6b4cb99bf375b5923457d3"
+      }, {
+        "made_on": "2017-08-28",
+        "amount": 1773.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "ee9a457357b4ccf0c3b37ef7c0d8b7b8ca4d3fb8d25c21b42b4aacac4f18fb38"
+      }, {
+        "made_on": "2017-08-29",
+        "amount": -62.61,
+        "currency_code": "MDL",
+        "description": "Retail MAIB ROGOB MARKET Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "cb3ea082277a9234707dd21076830c24f72a3f22692a49d59b0e2be2e642c960"
+      }, {
+        "made_on": "2017-08-29",
+        "amount": -100.64,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "e3890968bd531b2e7f13baff3611e85c79fad8d57f5e0d34d9405bf7e8887acd"
+      }, {
+        "made_on": "2017-08-29",
+        "amount": -235.58,
+        "currency_code": "MDL",
+        "description": "Gas Natural Fenosa (Furnizare energie)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "17d7633797547e4848174b636e1548571a7c4e2c0232d346bbc7899e086541a2"
+      }, {
+        "made_on": "2017-08-30",
+        "amount": -112.91,
+        "currency_code": "MDL",
+        "description": "Retail MAIB ROGOB MARKET Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "7d10f45f5b408e9cc9fff3f1b6cc101b5979a5264fb0d159152757e215c85521"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "RF: Taxa lunara deservire cont",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bank Fees"
+        },
+        "status": "posted",
+        "checksum": "4e2e3ed50cbc8d6a82777943c285f135cc2424a2b73ea34d85c49869543a4199"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -450.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "4028473aceb63d1b40fcc2d62f30f6827f3908ba48603477f9600de2d9b0fbaf"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": 616.7,
+        "currency_code": "MDL",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "048354000f72f45aa7ecbd5793d149e8c546f3439ade85a2fdec59241d20033c"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": 0.5,
+        "currency_code": "MDL",
+        "description": "Cl Deposit Int Due Special",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "e0b32cae0d5b933b1dd51412ff58e2a4c1d4f82b300f1eadc4f229ce959603b3"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -408.23,
+        "currency_code": "MDL",
+        "description": "Info Bon (Termoelectrica)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "4bbc6d227342996aed0cb04e88eaa9ccc1ce3539fddb2160162195d22dd1b413"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -205.08,
+        "currency_code": "MDL",
+        "description": "INFOcom",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "709dd1cb38c020d31b551180f42a07bf32a9e4f661ac53acacc32a8fc3e0876b"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -24.0,
+        "currency_code": "MDL",
+        "description": "Moldtelecom - Telefonie fixă",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bills"
+        },
+        "status": "posted",
+        "checksum": "ed289f70523541c22e5719b02811358984f5222de30a760733ffea7746047dd7"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -65.0,
+        "currency_code": "MDL",
+        "description": "Sun Communications (Sun-TV)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bills"
+        },
+        "status": "posted",
+        "checksum": "7db7f827702a2f3fc65eb154a58d862e9c6f8a8e9b9851f871fb4b8acb487df9"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": -276.89,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "8e626bbfc7a2e3b49e486fd5fba01feb6a02d6b9bba849980535744aa574576d"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": 1762.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "0e3d6424d2a519c9c57f81c2b17d6f587923b3786595fb84f9ec11b63be662c1"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": -150.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "c75f22d62fb71c4a7a3f66c353784ac6dd57c8cd3b478be1ace3df2ff17f91d6"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "10890ae1554ff7bf92d33a60bfdbe7dedc0ede433fd081e48dc79a232cf959d0"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": 15.0,
+        "currency_code": "MDL",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "5fba3cb7eb3e134713180640544270be4cba5313e66bab865c18301c8423226c"
+      }, {
+        "made_on": "2017-09-02",
+        "amount": -283.88,
+        "currency_code": "MDL",
+        "description": "Retail ANDY'S PIZZA N 7 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "b13c57f5326cbb0695e5cfa93621de12334ff1c5ca558cd414868846f3d8ac98"
+      }, {
+        "made_on": "2017-09-02",
+        "amount": -117.75,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "4459c81c5963c480db6ff11898d04c5e3053ffeefd5c8be78f95c2bceff99997"
+      }, {
+        "made_on": "2017-09-02",
+        "amount": -45.0,
+        "currency_code": "MDL",
+        "description": "Retail McDonald Centru MAIB Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "51e58833dc1956ddcbcf7c4ab1462461d719e10ee06e33040a2ecbc0c4bd9e67"
+      }, {
+        "made_on": "2017-09-02",
+        "amount": -115.44,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market B Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "084016e94f02d0f1dafea990dab5159f7928b904775319285458083345d5b503"
+      }, {
+        "made_on": "2017-09-03",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "Card P2P Debit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "1a926bb46f2123f8a0340b7b2490ab226c5d5bc04fd592f7fa779be0c9dc30b6"
+      }, {
+        "made_on": "2017-09-03",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "f37475aca512818f37c5cb0a64b38b125477d7990d738400400ac6e666ccb078"
+      }, {
+        "made_on": "2017-09-04",
+        "amount": -86.16,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "9dd0262533a7d51ddb21c1e43b9ce906124fb8e95edf229266ef507211daa08f"
+      }, {
+        "made_on": "2017-09-05",
+        "amount": -130.46,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "0878273650b633302afe90c47f33886da83b19a621ec57ddaa992a3a1d26fd25"
+      }, {
+        "made_on": "2017-09-05",
+        "amount": -50.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "273a8e5d7b88e132741061d08148b6b8627532cad2628d62f9bda524d4619929"
+      }, {
+        "made_on": "2017-09-05",
+        "amount": -50.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "initial_checksum": "273a8e5d7b88e132741061d08148b6b8627532cad2628d62f9bda524d4619929",
+        "checksum": "47a4777d9b6778663a103e2cb751747ed227b2526f4c1fa0f7c1214b55ac452f"
+      }, {
+        "made_on": "2017-09-07",
+        "amount": -89.03,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "8b3ec94f2f36603adec4c5b1f6aa6cdf408ba34c24690e668cf8c3b493ac1456"
+      }, {
+        "made_on": "2017-09-08",
+        "amount": -121.99,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market B Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "7d1e4737b7b418ea1940f75c7a4c968283a283727a0027ca623346901c3b3eb5"
+      }, {
+        "made_on": "2017-09-10",
+        "amount": -300.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "8f2b8ae5eb1dec204ad12d1428ce32655279e8133b4207a38273687389681b9d"
+      }, {
+        "made_on": "2017-09-13",
+        "amount": -188.77,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "1c662f231dfbf6b3f5ec20876286d82b50817e80cdd9df39c2eec8c442ab0807"
+      }, {
+        "made_on": "2017-09-13",
+        "amount": 1000.0,
+        "currency_code": "MDL",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "b944dea407f92e7f35492c2e955cca7bd855c4abe47525bca661828509ddf748"
+      }, {
+        "made_on": "2017-09-14",
+        "amount": -64.92,
+        "currency_code": "MDL",
+        "description": "Retail MAIB UNIMARKET NR 18 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "ba128b0d26b32dcd0afe08fd97cce3844c780ec66bf432c87b2b2405fef5aaef"
+      }, {
+        "made_on": "2017-09-14",
+        "amount": -200.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "ff1b8537e177bdd9c4bd877e23fad087d3bfef36b2032a07cbb1eb2be9474537"
+      }, {
+        "made_on": "2017-09-14",
+        "amount": -400.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "f79cf8ab0e9cd5601f93dc9592f875c34760b3e57ada0cce8295f49e5c37f4e7"
+      }, {
+        "made_on": "2017-09-14",
+        "amount": -80.19,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 9\" market B Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "9f3ea557831d7915a3f1f40c973858b03fca17009bbf6f32f49714fbdd153ff0"
+      }, {
+        "made_on": "2017-09-17",
+        "amount": -239.38,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "3a81e5689eab315dae7fe25fad7af28b2cb267a3362cc43d0a78a01af627a6c7"
+      }, {
+        "made_on": "2017-09-17",
+        "amount": 1748.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "a5137e40b6b7e6e0d39add1e74fc3b6df491266b810ab6e9f2369e9c4e5c0208"
+      }, {
+        "made_on": "2017-09-18",
+        "amount": 438.0,
+        "currency_code": "MDL",
+        "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "c0f3ec8b6c41894b342fc9a936d55bc74759268b2b22a1748b52eae8854844c9"
+      }, {
+        "made_on": "2017-09-18",
+        "amount": -1011.11,
+        "currency_code": "MDL",
+        "description": "MPay - Public Services",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "ce242023d010f891fd76e0efd73d61079f8b058e7fd4c82aa3984a4f109d530e"
+      }, {
+        "made_on": "2017-09-19",
+        "amount": -250.47,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "d813881a402df6a9f24cf17daf2c18c36e3c2e79fc37e7feb36f520277847e4d"
+      }, {
+        "made_on": "2017-09-20",
+        "amount": -199.07,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "7879c505ac3c73e6aa4585431f226f591d54604344a7f8c149f2c43e7f5e52c3"
+      }, {
+        "made_on": "2017-09-20",
+        "amount": -50.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "f4eb4790ad935b5446a8be204bd0bd25d19aa3ad76ce447e28559fe6a98934e9"
+      }, {
+        "made_on": "2017-09-20",
+        "amount": -1200.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "1df74b59516622fde56ad5052de65b940240e6d541c14c1a872700c41c153654"
+      }, {
+        "made_on": "2017-09-20",
+        "amount": 1750.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "427a3ea5fed0e99b17c27b00ec63e1a89a417cd1e0c1cd5de165597697e45bd3"
+      }, {
+        "made_on": "2017-09-22",
+        "amount": -465.0,
+        "currency_code": "MDL",
+        "description": "Retail ANDY'S PIZZA N 2 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "148853bda61c127cc574ee29405e7eb4a4a1137234654d554175d02e0acb5328"
+      }, {
+        "made_on": "2017-09-22",
+        "amount": -29.76,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "e784effd9de4b4bdf23f19637d0c7aae3bbd4978abffb785de902113c02c3921"
+      }, {
+        "made_on": "2017-09-22",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "6cb98c4ab26c4b6bf9517ee007ba0942be5d29fd93dca42d98c5f3f3db6418ac"
+      }, {
+        "made_on": "2017-09-23",
+        "amount": -300.0,
+        "currency_code": "MDL",
+        "description": "Retail www.marathon.md CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "8bc00eb5904839565205ed600f4a3f42c616014c71e1382a8fb505a7b54e544c"
+      }, {
+        "made_on": "2017-09-24",
+        "amount": -150.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "72cff5c4e9d175cfab4d5962ec5b0b0287976fa4bcc87cdf3902bd2b52370428"
+      }, {
+        "made_on": "2017-09-24",
+        "amount": -350.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Home"
+        },
+        "status": "posted",
+        "checksum": "d0687e03924efc75cbfff68d34e226e32bd875a17c838a25e127c7f34648c270"
+      }, {
+        "made_on": "2017-09-24",
+        "amount": 1743.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "2d719eaa3a31070a66f2e694aab1a9e625affb6bc35c55da8454aa2d03ad1393"
+      }, {
+        "made_on": "2017-09-24",
+        "amount": -215.01,
+        "currency_code": "MDL",
+        "description": "Retail Hypermarket Nr 1 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "67e508bf3d7695a5a6de99e9db2e8d101f6df069cf144a8412e3ee7bc3a737c6"
+      }, {
+        "made_on": "2017-09-24",
+        "amount": -71.06,
+        "currency_code": "MDL",
+        "description": "Retail MAIB ROGOB MARKET Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "080d73cfb46a6418f8b69c19f04f3e773663998001e520550f1e1dfaab5950c3"
+      }, {
+        "made_on": "2017-09-25",
+        "amount": -124.9,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "7118cce3ddf9d4fe34eb0e26b56d403f86ad6fa8cd9c3c7ad545b4d54d767432"
+      }, {
+        "made_on": "2017-09-25",
+        "amount": -300.0,
+        "currency_code": "MDL",
+        "description": "Retail www.marathon.md CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "bc281146823bcc4bcb2910b7eed251cb841fbba9db91db1ad7edfa212c1574db"
+      }, {
+        "made_on": "2017-09-25",
+        "amount": -150.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Home"
+        },
+        "status": "posted",
+        "checksum": "49917cf24302368919fac9328c5052060c4334f3b294bde8b18ee976090543fa"
+      }, {
+        "made_on": "2017-09-26",
+        "amount": -80.58,
+        "currency_code": "MDL",
+        "description": "Retail MAIB ROGOB MARKET Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "467afd1f27af1c7b850fdb0793b05b8f0fefe2e27bc01bfb05c33c1b105da965"
+      }, {
+        "made_on": "2017-09-26",
+        "amount": -314.4,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "73fa71d5729360a291fb4c4e4e44cbf4b619eb459a946bb84ae85545a748396a"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": -251.13,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "ad9207a221ce629bbb59585e07b6c0a581b50391b9fc94b3cc14fab0ebaca7d0"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": 1745.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "05643dee3fb42278f8e9fccf32cdf0f1bab902181ed5b9651fccd89d47e96816"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": 45.0,
+        "currency_code": "MDL",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "ccaa363f958cbbd731c2542cb67e63d0294a5f5790fbdaaa16bb79616e751b97"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": -40.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "4aa2055195e68a0554d5c1dd4cede9d3a503780772950314e5c22245de96b86d"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "e23a888e051039f531ab9e76fe055edfdda7d478c19cca1932cb096352334c8a"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -145.93,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "8b9b5db1f2e46d3601c4ce3a2aa98c909af0193e1d21388fa68d459bb582edc2"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -25.62,
+        "currency_code": "MDL",
+        "description": "Retail MAIB FOURCHETTE MALLDO Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "3a9ff9ea4633374367a5369f888ce31d2e24c88af2fdff17a6d60c77f47d83d6"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -170.0,
+        "currency_code": "MDL",
+        "description": "Retail McDonald Malldova MAIB Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "a28640d3d9ab1d4ff7ce7578a795b7bb48871d9288c3fa303df6c78b8935b0f1"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "RF: Taxa lunara deservire cont",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bank Fees"
+        },
+        "status": "posted",
+        "checksum": "aa1862c70d93a4f372c23498a66a163f15417502ff37b05eee9298489489ba50"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": 0.53,
+        "currency_code": "MDL",
+        "description": "Cl Deposit Int Due Special",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "a23c7232e8364e7332a876f81d6fa37841f34963ea2bfdc34aac780ef768f7aa"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -34.02,
+        "currency_code": "MDL",
+        "description": "Info Bon (Termoelectrica)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "d33b169e6a158c98122f690e8869dfa8c4d4830c6c975e2d849a6252262e2a58"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -254.1,
+        "currency_code": "MDL",
+        "description": "Gas Natural Fenosa (Furnizare energie)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "9477de566e75fd421b1ffaa2c9aaae96fe6311145dab70716c6378794fef3e0e"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -110.56,
+        "currency_code": "MDL",
+        "description": "INFOcom",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "fc78b36df5c21517962f4477fd1025b4ec96c0189112f0a54afb3dc2d505df68"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -24.0,
+        "currency_code": "MDL",
+        "description": "Moldtelecom - Telefonie fixă",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bills"
+        },
+        "status": "posted",
+        "checksum": "9809b2a1a6d0d5ec31d13f969a0fc1455da1ceb74c65b8beded1200ad8a6f683"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -210.0,
+        "currency_code": "MDL",
+        "description": "StarNet",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Internet \u0026 TV"
+        },
+        "status": "posted",
+        "checksum": "669653be9c4382f939a92d3f99bea7db10b0eaf34b8a23b54adad58299da4e22"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -65.0,
+        "currency_code": "MDL",
+        "description": "Sun Communications (Sun-TV)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bills"
+        },
+        "status": "posted",
+        "checksum": "015bb3f3c624278c30474102ed9837ca6a477bd04f83236fa2ecff6e4a47b8e5"
+      }, {
+        "made_on": "2017-10-01",
+        "amount": -111.7,
+        "currency_code": "MDL",
+        "description": "ATM MOB CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "33f8318ac9ce2bb4d1ae6a6e00836b5b63a3be4cdd3b161b848b98a20055d440"
+      }, {
+        "made_on": "2017-10-01",
+        "amount": -121.8,
+        "currency_code": "MDL",
+        "description": "ATM MOB CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "81e7e486895aabe17d11ebb316d6c701b521571c3e8d2a26eed1a2848619283d"
+      }, {
+        "made_on": "2017-10-01",
+        "amount": -97.0,
+        "currency_code": "MDL",
+        "description": "Retail CAFENEA \"FOISOR\" Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "7eebd134423ea728a9cae7626a2b3d9ace7fef46b77ce034d582ffcc77fd351c"
+      }, {
+        "made_on": "2017-10-01",
+        "amount": -139.92,
+        "currency_code": "MDL",
+        "description": "Retail \"LIN 27\" market C Stauceni (com.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "4b5b69496c5077d6e0bfd5a730128e2bae1034a8938c18e9c86f7f252560d16e"
+      }, {
+        "made_on": "2017-10-01",
+        "amount": 15.0,
+        "currency_code": "MDL",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "6d3b53bb17a8177fa3f5601af92698464c6cc6e8ba3439b14377b2e188cddf13"
+      }, {
+        "made_on": "2017-10-01",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "f6c20fdc02fc000b43d3ecc8c4594cf3ec0d746594b014ad9a4798d391c4563d"
+      }, {
+        "made_on": "2017-10-02",
+        "amount": -223.39,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "05425b90d1d72e2ca99b4a759643b1c5f7cd1a5cca99f7a6f28a9c40936c4540"
+      }, {
+        "made_on": "2017-10-02",
+        "amount": 1740.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "9c4e3b8032e2802d233787bb46ef4076cc986a2eff43c3791a3d18839c9e5e7b"
+      }, {
+        "made_on": "2017-10-03",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "0f36e8a74a81bb171c6e8ae844f652325b3adb3e0e50e3489efbe00f621f3ce1"
+      }, {
+        "made_on": "2017-10-04",
+        "amount": -45.0,
+        "currency_code": "MDL",
+        "description": "Retail DC DONUTS AND COFFEE CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "ae60b8cff3a247a72c49b6ded8678359890c814a61518159c39b082ae8d6ed36"
+      }, {
+        "made_on": "2017-10-04",
+        "amount": -100.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM076 \"Primaria\"-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "376e5a3bfa3f1974caa1c59addafedc2df53be3faa1d5a160213974c9d882262"
+      }, {
+        "made_on": "2017-10-04",
+        "amount": -540.0,
+        "currency_code": "MDL",
+        "description": "Retail \"VASABI\" Cafenea-A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "423a964b8c6da86b66f5ba6e4ece16670c37085e3b3490ca21ddd3d5bf89894a"
+      }, {
+        "made_on": "2017-10-04",
+        "amount": -120.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "fa336c9314e27452a2e5ff52328b0e7747ccb0b31cd93e1c87a3ea1f6e779e31"
+      }, {
+        "made_on": "2017-10-05",
+        "amount": -193.58,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "869c0e466a04ac0a490e9d2fea0111139b5c0224a48edbec4c4ad2a706e1aebb"
+      }, {
+        "made_on": "2017-10-05",
+        "amount": -150.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Home"
+        },
+        "status": "posted",
+        "checksum": "6aa4a447e8aa1eef1b217440c37cd9b73c21dae2d993ef5d184d75202e56ed3d"
+      }, {
+        "made_on": "2017-10-07",
+        "amount": -47.6,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "7ba2eb5112c7655337fdd234385a8c0606e28f12a8db3524c4651aac8e3b9d07"
+      }, {
+        "made_on": "2017-10-08",
+        "amount": -172.09,
+        "currency_code": "MDL",
+        "description": "ATM ATM 072 MAGAZIN N1 RUS CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "c37a7c5098c772d5b3c7905ef3146bc9427f84272caa27c8df387d6afa3abca4"
+      }, {
+        "made_on": "2017-10-09",
+        "amount": -50.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "891f4f59341410706dc69bfe0e5e0da0d29c58e45884ceb6dc7508cdfb3f348a"
+      }, {
+        "made_on": "2017-10-13",
+        "amount": 400.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "31d4f61391017a97ec8f73ac11aedd8d14389baf4958e7e20d1092b6c656219d"
+      }, {
+        "made_on": "2017-10-14",
+        "amount": -1103.52,
+        "currency_code": "MDL",
+        "description": "Retail METRO CASH\u0026CARRY CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "26c8e165134f51a1fcebcfedb34659acef1c65a9c652c2bc7df80d577b8126ce"
+      }, {
+        "made_on": "2017-10-14",
+        "amount": -2300.0,
+        "currency_code": "MDL",
+        "description": "Retail NIPON AUTO(Service) CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "5d2ad88d109023c3c26dd7373123f1edb95ea0e934c10d0c5b7386707cdb3dc3"
+      }, {
+        "made_on": "2017-10-14",
+        "amount": -353.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "9bc33f405d419cf7dd4f8f33d7430187026575d5ca39b598dbc5bc7ff67fe2b6"
+      }, {
+        "made_on": "2017-10-14",
+        "amount": 3436.0,
+        "currency_code": "MDL",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "7ee1df7d9e4ab4d041f1b245de7e3a5b71ec53a0fa358e15312890072071f5ba"
+      }, {
+        "made_on": "2017-10-17",
+        "amount": -50.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "07f287687cff5355501b49c4398e4e1c7ba880a53cb95869e0fdd54b62181565"
+      }, {
+        "made_on": "2017-10-27",
+        "amount": -650.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Home"
+        },
+        "status": "posted",
+        "checksum": "ec03e9c1c01ee9d28496c7d40ac317f76404badcaf3ab2e8df4a5cc64d7d8304"
+      }, {
+        "made_on": "2017-10-27",
+        "amount": 1714.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "7551b6e69b902d663d7b97a20295e46e0e9d08d599610295e1d664cca92f2d93"
+      }, {
+        "made_on": "2017-10-28",
+        "amount": -561.35,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "334815ee17307250cfbd08f1324eb10a893fa5133fc97fdb1d81112e10d6d382"
+      }, {
+        "made_on": "2017-10-29",
+        "amount": -500.0,
+        "currency_code": "MDL",
+        "description": "ATM ATM195 MICB Alecu Russo Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Home"
+        },
+        "status": "posted",
+        "checksum": "9d79e7032cea377ded18dcc13071c2d84ff10d1b1131b6f168bdec763c86d659"
+      }, {
+        "made_on": "2017-10-30",
+        "amount": -238.13,
+        "currency_code": "MDL",
+        "description": "Info Bon (Termoelectrica)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "00aeef1fd2247d222e4136960412702c7dada78bddcc0de1c49473adb70899db"
+      }, {
+        "made_on": "2017-10-30",
+        "amount": -110.56,
+        "currency_code": "MDL",
+        "description": "INFOcom",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "d6b6bf0ecf32221195d80298c45cacfe050ed9b8ae2a4b8b76c353293051a34f"
+      }, {
+        "made_on": "2017-10-30",
+        "amount": -664.85,
+        "currency_code": "MDL",
+        "description": "Gas Natural Fenosa (Furnizare energie)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Utilities"
+        },
+        "status": "posted",
+        "checksum": "87cf650c61566e195d8f25fe11f1917a87e80ad8d1e8a68d50f148eca1fa3bcb"
+      }, {
+        "made_on": "2017-10-30",
+        "amount": -210.0,
+        "currency_code": "MDL",
+        "description": "StarNet",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Internet \u0026 TV"
+        },
+        "status": "posted",
+        "checksum": "25d13bafa45a93d970b59cb3533a92bcf560d3b604b04e7e6d0607d075695c0f"
+      }, {
+        "made_on": "2017-10-30",
+        "amount": -65.0,
+        "currency_code": "MDL",
+        "description": "Sun Communications (Sun-TV)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bills"
+        },
+        "status": "posted",
+        "checksum": "3304b6cc5af196808fa528a9b079268c855509fe9ab6278538afa4224608167a"
+      }, {
+        "made_on": "2017-10-30",
+        "amount": -24.0,
+        "currency_code": "MDL",
+        "description": "Moldtelecom - Telefonie fixă",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bills"
+        },
+        "status": "posted",
+        "checksum": "717bd8b82d51d95fc5a9aaf3ef35c76cccc709fab61e4c3a705da87524da8e98"
+      }, {
+        "made_on": "2017-10-30",
+        "amount": 2600.0,
+        "currency_code": "MDL",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "1b56537737caf0d8eec495b0437fc843ea28a20489c34484e2695168586a5f2e"
+      }, {
+        "made_on": "2017-10-31",
+        "amount": -101.9,
+        "currency_code": "MDL",
+        "description": "Retail ALI*aliexpress.com HANGZHOU China",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "6c0fd856eaee81eacd8bd7f8c77dd3d0317a4a23cf2694160ce5382bbadddffe"
+      }, {
+        "made_on": "2017-10-31",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "RF: Taxa lunara deservire cont",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bank Fees"
+        },
+        "status": "posted",
+        "checksum": "e97158bd7c8702cb3f8c68820a170eef20b37310b95f2b7eded29e9f8e491387"
+      }, {
+        "made_on": "2017-10-31",
+        "amount": -194.75,
+        "currency_code": "MDL",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "a4a2017e5ad1615601d51ee7e841f08b0ddb9c6d0ae3ab96df4ddb3fe453a1c1"
+      }, {
+        "made_on": "2017-10-31",
+        "amount": 0.47,
+        "currency_code": "MDL",
+        "description": "Cl Deposit Int Due Special",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "27bcb58da1b9c21418156863e36f8e44ef8bb0d1fab8f0c84b7a15bbfe7c63e1"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": -339.43,
+        "currency_code": "MDL",
+        "description": "Retail WWW.ALIEXPRESS.COM LONDON United Kingdom",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "812a1cc9796fdbdbed411a2be84833f65f9d27b62bc24351387c90ee3af7cbfd"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": -380.0,
+        "currency_code": "MDL",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "eeb97d01043601679f949808759eb71b93bec50373ff8d6c97a96614cd2ba814"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": 15.0,
+        "currency_code": "MDL",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "aed2c9cad346e0c6667351509c0a8face98607db55495c941558eb5824ccd778"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": -15.0,
+        "currency_code": "MDL",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "6b09d3757666fafdc2e9fe50c27357ae169f7275c9388990c25605cb528cfea6"
+      }, {
+        "made_on": "2017-11-03",
+        "amount": -76.91,
+        "currency_code": "MDL",
+        "description": "Retail WWW.ALIEXPRESS.COM LONDON United Kingdom",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "429316a3ddae468acbffd27338e33a4becbdac348791afd7196a0a4f555de8e5"
+      }, {
+        "made_on": "2017-11-07",
+        "amount": -31.35,
+        "currency_code": "MDL",
+        "description": "Retail MAIB ROGOB MARKET Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "5c04b0173720d782aa7ee211b1620167e199d09c27cc4619041871d7680aab36"
+      }]
+    }, {
+      "name": "225B123456",
+      "currency_code": "USD",
+      "balance": 35.61,
+      "extra": {
+        "blocked_amount": 0.0,
+        "available_amount": 160.42
+      },
+      "nature": "account",
+      "transactions": [{
+        "made_on": "2017-07-01",
+        "amount": 0.28,
+        "currency_code": "USD",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "a3bffe6af05130c3b4ed2e1317f7d5b90acb3ec54bd7a048abf55eecaf2cad85"
+      }, {
+        "made_on": "2017-07-01",
+        "amount": -0.28,
+        "currency_code": "USD",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "30050f09a55dca452ee69c2b75b4836e3da833a59ea27a9b31900371df8c0a33"
+      }, {
+        "made_on": "2017-07-02",
+        "amount": -1.99,
+        "currency_code": "USD",
+        "description": "Retail GOOGLE *Google Storage 855-836-3987 United States",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Electronics \u0026 Software"
+        },
+        "status": "posted",
+        "checksum": "331cc932d59b0b68978d6e64fd02943eb36bdf7787733786b3341ba02d429ca0"
+      }, {
+        "made_on": "2017-07-12",
+        "amount": -59.27,
+        "currency_code": "USD",
+        "description": "Retail PAYPAL *GEARBEST 4029357733 Luxembourg",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "f494c595229f17d5a5b5d7816a7489924b46129d55af04d3e35c2022ba41e43a"
+      }, {
+        "made_on": "2017-07-12",
+        "amount": 5.45,
+        "currency_code": "USD",
+        "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "3554b62cd2af1339be656c561b74aa3ecbb754ac2f115de6874d208400343a9d"
+      }, {
+        "made_on": "2017-07-12",
+        "amount": 54.47,
+        "currency_code": "USD",
+        "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "0234098fc49516d793a56feea5fe12eabf03930e50dee9dc3370d9ac4a9c4489"
+      }, {
+        "made_on": "2017-07-14",
+        "amount": 100.0,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM074 \"Alba Iulia\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "7464549023a5554f784076d7381014d4d40c47b455ece07137face65b78b9855"
+      }, {
+        "made_on": "2017-07-15",
+        "amount": -11.11,
+        "currency_code": "USD",
+        "description": "Moldcell",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Phone"
+        },
+        "status": "posted",
+        "checksum": "1605e5f4ef6af00a0889b52cbc8778a98de168632ef9ddc380e1fdb85bf86cdd"
+      }, {
+        "made_on": "2017-07-16",
+        "amount": -8.14,
+        "currency_code": "USD",
+        "description": "Retail AZS WOG KUCHURGAN KUCHURGAN Ukraine",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Fuel"
+        },
+        "status": "posted",
+        "checksum": "c13bd7e22b41f01702d07b7f94ac70183b89a1776af980c98b61ef822f507fb3"
+      }, {
+        "made_on": "2017-07-16",
+        "amount": -13.83,
+        "currency_code": "USD",
+        "description": "Retail ROSHEN PANTELEJMONIVS ODESA Ukraine",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "7ba95418cab6fb3505a32435caa144e968dfd117a5e791a0bd30912dcf715806"
+      }, {
+        "made_on": "2017-07-16",
+        "amount": -0.9,
+        "currency_code": "USD",
+        "description": "Retail TAVRIYA-V ODESA Ukraine",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "e6d41a2a3501661264ef3240288048901ab0a2473b4b8695615f51bb508cd83b"
+      }, {
+        "made_on": "2017-07-16",
+        "amount": -11.25,
+        "currency_code": "USD",
+        "description": "Retail BAR MIDII KOTELOK ODESA Ukraine",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Dining Out"
+        },
+        "status": "posted",
+        "checksum": "600a0d9ad01f697b7c748393a75db910ca8214cbed07e501b1f9ce9a1cb0466a"
+      }, {
+        "made_on": "2017-07-16",
+        "amount": -17.03,
+        "currency_code": "USD",
+        "description": "Retail BAR MIDII KOTELOK ODESA Ukraine",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Dining Out"
+        },
+        "status": "posted",
+        "checksum": "711c7e527cb5fb8a246564ec15d90da1077b3994c314f0933bdb01a8ce8879a8"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": -13.0,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "5984a360f4494281bbfe62bb2153e204dc27b3728ac99480c04f9b9ff738c2d9"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": -15.0,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "53210de4b91c2a6d8dff61034442721aa1b84224113584aa6e5b385c959ff881"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": -1.94,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "9383bcd80a73b7191341076e53f65d1569a37a8a2fc2e149b671930ec7e7dec1"
+      }, {
+        "made_on": "2017-07-17",
+        "amount": 10.89,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "c3e58e369f7297b73a9c1553c50c9e3008adde2e8f076c2c1dae0414cd4016ee"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": -12.38,
+        "currency_code": "USD",
+        "description": "Card P2P Debit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "1e9b6d1fced794c5edf5a278cbb9d021b40157ea4c2d9676199c4a2002b098cd"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": -5.18,
+        "currency_code": "USD",
+        "description": "Retail MAIB LINELLA 31 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "3f5e99233da16e98b9924c092277a5cee5f0be41896ddf1cdf0a41d3b613b706"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": -13.67,
+        "currency_code": "USD",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "f7e9e7b5543cbecc759536544243e7e7d6426f321e45f580b62b6a8580b0a430"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": -12.38,
+        "currency_code": "USD",
+        "description": "Transfer between MasterCard cards",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Dining Out"
+        },
+        "status": "posted",
+        "checksum": "c2c7327fbe613f00b6bddd74884abf7a60a69043fd41aea1a4d67a0f45c00ef9"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": 5.45,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "d4798bf2c92960d7889bb070c3a39f7f26c3ee971d07435250c51a71b1d8b94a"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": 1.09,
+        "currency_code": "USD",
+        "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "3d7bb83350b00448d015dd62118d979c2db9bd5c60f46fbbafef04515867e198"
+      }, {
+        "made_on": "2017-07-23",
+        "amount": 10.89,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "2d93d997a78383b22963bd8c8560263352206418ff8a2dc1843f77ccb3f9e836"
+      }, {
+        "made_on": "2017-07-24",
+        "amount": -1.84,
+        "currency_code": "USD",
+        "description": "Retail \"LIN 16\" market B Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "b25e4ade9103eda4e71cfafcbc60e2c29d0b6be19a15accab43a8f71918206a5"
+      }, {
+        "made_on": "2017-07-24",
+        "amount": 200.0,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM074 \"Alba Iulia\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "932ec1a60915f3124d071849a9d286e2a7269dae9b776d90bee657a24005f9d8"
+      }, {
+        "made_on": "2017-07-25",
+        "amount": -5.56,
+        "currency_code": "USD",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shipping"
+        },
+        "status": "posted",
+        "checksum": "28e06812f90b495206c913231aabe7258da80c4143de572f55bcb81040b0739c"
+      }, {
+        "made_on": "2017-07-28",
+        "amount": -3.62,
+        "currency_code": "USD",
+        "description": "Sun Communications (Sun-TV)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bills"
+        },
+        "status": "posted",
+        "checksum": "a76b6239d4319910721597ee9f7c3ac32a4612494ea4ba23e07414f14813dc50"
+      }, {
+        "made_on": "2017-07-31",
+        "amount": -21.9,
+        "currency_code": "USD",
+        "description": "Retail \"LUKOIL\" PECO 08 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Fuel"
+        },
+        "status": "posted",
+        "checksum": "0d6b332e435e1a7d6cde3616a0659b229e7cb35f010411ec548614f86eb3d0b7"
+      }, {
+        "made_on": "2017-07-31",
+        "amount": -0.28,
+        "currency_code": "USD",
+        "description": "RF: Taxa lunara deservire cont",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bank Fees"
+        },
+        "status": "posted",
+        "checksum": "a95d8c65a7ebf3be61fb6aa961412127a229fe0fe7d12aec546463c93f5edf86"
+      }, {
+        "made_on": "2017-08-01",
+        "amount": -70.69,
+        "currency_code": "USD",
+        "description": "Retail AIRBNB 14158005959 United Kingdom",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Hotel"
+        },
+        "status": "posted",
+        "checksum": "195623f529665c5e458fb4f8ecf543ae6cc17132111ba89a1c8781757d5283db"
+      }, {
+        "made_on": "2017-08-01",
+        "amount": -76.12,
+        "currency_code": "USD",
+        "description": "Retail AIRBNB 14158005959 United Kingdom",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Hotel"
+        },
+        "status": "posted",
+        "checksum": "d456ea5f359a7eb5d8dac16c5599cdc8cb194bcb4fe3d3133a2a11cb4b7fc025"
+      }, {
+        "made_on": "2017-08-01",
+        "amount": -0.28,
+        "currency_code": "USD",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "077738b88ffafbf5d9dde83ea63bc97d50068eaf0eacf9ee3c2cefe5b95d5a36"
+      }, {
+        "made_on": "2017-08-01",
+        "amount": 0.28,
+        "currency_code": "USD",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "3e99629f8cd919dae43c8350f73bd7063dc2ac9ea1e9006d9f1ef308143b3ab0"
+      }, {
+        "made_on": "2017-08-02",
+        "amount": -4.26,
+        "currency_code": "USD",
+        "description": "Retail WWW RAPIDASIG MD CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "6c9d612cc4ffc1c5b9ccff5a41c306e970332428b55d50e0440dfe61a9214d86"
+      }, {
+        "made_on": "2017-08-02",
+        "amount": -4.26,
+        "currency_code": "USD",
+        "description": "Retail WWW RAPIDASIG MD CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "initial_checksum": "6c9d612cc4ffc1c5b9ccff5a41c306e970332428b55d50e0440dfe61a9214d86",
+        "checksum": "e4895f9149d7c3b061d0789aba84ea0531365e324b07b2272e423595aa7bec88"
+      }, {
+        "made_on": "2017-08-02",
+        "amount": -1.99,
+        "currency_code": "USD",
+        "description": "Retail GOOGLE *Google Storage 855-836-3987 United States",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Electronics \u0026 Software"
+        },
+        "status": "posted",
+        "checksum": "34713fbd778e53f77e1e5a5633a15fb7fb17ed9298e252d6eee2178409f30542"
+      }, {
+        "made_on": "2017-08-02",
+        "amount": -5.0,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "df9104d29f5887d9f870384ba6b2fcd4c5376b97e7f547f789d36c1b442867a5"
+      }, {
+        "made_on": "2017-08-03",
+        "amount": -8.21,
+        "currency_code": "USD",
+        "description": "Retail MAIB LINELLA 31 CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "4b815c807b273595f5e78bb07cffaca3a3e10250afdabe32c9645b9d91af21ac"
+      }, {
+        "made_on": "2017-08-03",
+        "amount": 3.31,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "882b8d5f8367f2dee8a6003d51737acf64c0560194a9171c01626c5a257db045"
+      }, {
+        "made_on": "2017-08-04",
+        "amount": -5.0,
+        "currency_code": "USD",
+        "description": "Card P2P Debit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "b1885b3b3bdb2de1d7e262ae7da851470ccc1536be0bfdb85a8427f355bb65b6"
+      }, {
+        "made_on": "2017-08-04",
+        "amount": 200.0,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "605635e9b584aca0fd984c056068d1519e8755ca05d9196e711c8c8e25d2e083"
+      }, {
+        "made_on": "2017-08-04",
+        "amount": -5.0,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "1283bebaee2ba86bc7985371a69c31ea04549cf564369d3ec69644f8a2c15650"
+      }, {
+        "made_on": "2017-08-05",
+        "amount": -10.15,
+        "currency_code": "USD",
+        "description": "Retail MEGAIMAGE 0599 MOECIU MOECIU Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "95cbe9599ba858eb50c63a9f4f41b61ce3f29bc95967041f4dc2e54f600f3146"
+      }, {
+        "made_on": "2017-08-05",
+        "amount": -46.57,
+        "currency_code": "USD",
+        "description": "Retail MAIB DUTY FREE LEUSENI Hincesti Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "cb076fe83764278e262d442a1457a5f99a76705d81d88ce7bbc79ed30b9b2db0"
+      }, {
+        "made_on": "2017-08-06",
+        "amount": -21.81,
+        "currency_code": "USD",
+        "description": "ATM BRD STATIUNEA POI Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "2519e224e36835205c04a6b4d1699acaa8adecc3aa0c4ccb79f91256ae50f3f8"
+      }, {
+        "made_on": "2017-08-07",
+        "amount": -15.91,
+        "currency_code": "USD",
+        "description": "Retail SALINA TURDA DEP TURDA Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "16ead2e1b83fcd970c690a00e64342e1db34d3cfa2b12d0f335688de3e0d9869"
+      }, {
+        "made_on": "2017-08-08",
+        "amount": -9.51,
+        "currency_code": "USD",
+        "description": "Retail KAUFLAND 1110 CORT SOV SOVATA Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "75ad456e9fe5be8f9f8a663e6b8732f3a0bed7ac287524a885057862cdb2cb22"
+      }, {
+        "made_on": "2017-08-08",
+        "amount": -4.8,
+        "currency_code": "USD",
+        "description": "Retail ROMPETROL DWS R088 C1 LUDUS Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Fuel"
+        },
+        "status": "posted",
+        "checksum": "7828ae6c751943562b62b9b3ba12e5161e56de5da3026d3f98466479f2a8fd27"
+      }, {
+        "made_on": "2017-08-08",
+        "amount": -6.37,
+        "currency_code": "USD",
+        "description": "Retail COFFEE BEAMS DEP CLUJ Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Cafes \u0026 Restaurants"
+        },
+        "status": "posted",
+        "checksum": "9efe67741fbda6f397eb2a494989c2ca3682104ba17eae22d0dc76bf828fc881"
+      }, {
+        "made_on": "2017-08-08",
+        "amount": -8.97,
+        "currency_code": "USD",
+        "description": "Retail ROPHARMA 81028010 CLUJ NAPOCA Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Healthcare"
+        },
+        "status": "posted",
+        "checksum": "595c9c76b8158b568be9e4d08befb9ea4d09362d0055b1ea718766589c66088c"
+      }, {
+        "made_on": "2017-08-09",
+        "amount": -11.13,
+        "currency_code": "USD",
+        "description": "Retail AUCHAN ROMANIA SA IASI Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "2d55af337a1a537ea5667fdcb01f6bc74e76503e3e4636d55ead0ee0fd9b18cb"
+      }, {
+        "made_on": "2017-08-09",
+        "amount": -23.68,
+        "currency_code": "USD",
+        "description": "Retail H\u0026M RO0009 IASI C6 IASI Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "f4176666e0f8f8128066b8e48a0d2c318f4b2d5e449f65cf455a452922dfa51b"
+      }, {
+        "made_on": "2017-08-09",
+        "amount": -15.77,
+        "currency_code": "USD",
+        "description": "Retail H\u0026M RO0009 IASI C1 IASI Romania",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "bcf0e72cbfb794318e6f6bce47e6bd5fccb36ea7ee4d25bcfd568e41a290c13d"
+      }, {
+        "made_on": "2017-08-10",
+        "amount": -12.6,
+        "currency_code": "USD",
+        "description": "Retail ANDY'S PIZZA 7 LIVRARE CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Dining Out"
+        },
+        "status": "posted",
+        "checksum": "d2bfb4da2d87e786f28fbf9c8c1fb3c8d03e224ef3eebbb8e668a4e5ba5c1794"
+      }, {
+        "made_on": "2017-08-15",
+        "amount": 3.66,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "ce322ce70d145bde949e35083b26ce3263a83e33ac3da4c98a7e7c3e304594ca"
+      }, {
+        "made_on": "2017-08-16",
+        "amount": -10.51,
+        "currency_code": "USD",
+        "description": "Retail ANDY'S PIZZA 7 LIVRARE CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "4fda7a0144dab2c3c52d86cb1a3854f31070d67711762e44ec319ea47623bb15"
+      }, {
+        "made_on": "2017-08-16",
+        "amount": 8.31,
+        "currency_code": "USD",
+        "description": "Card orig. credit WEB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Charity"
+        },
+        "status": "posted",
+        "checksum": "ee7cc9c5f42ae0b6f9c5ced42179305d358d9b0b0a068d2f6a571a8c8497b934"
+      }, {
+        "made_on": "2017-08-16",
+        "amount": -11.29,
+        "currency_code": "USD",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "bc916f07fe98f5b5176b17e0129ba9ea79a6b40c70e0f25c3d3cfff9675bb049"
+      }, {
+        "made_on": "2017-08-17",
+        "amount": 11.08,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "53cf1338731771e5edb8663c53c121511d2931da84fd84c9dc447a558a250c6d"
+      }, {
+        "made_on": "2017-08-19",
+        "amount": -5.54,
+        "currency_code": "USD",
+        "description": "Retail \"BOMBA\" magazin Nr.06 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "47bf560fe5c6c72f1585f33d3faaa56a7d1c503a67a358c463ea13254d9e8f24"
+      }, {
+        "made_on": "2017-08-20",
+        "amount": -2.83,
+        "currency_code": "USD",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "4d4dc3f47ae5802e74028922edae7de7a7c583cd7e5db6d62d63d7852b3b5ca1"
+      }, {
+        "made_on": "2017-08-20",
+        "amount": -5.0,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "7cb822598af73e4fc70dca78fa04566e43fcd991ed4bc422a9b8ebce93b38d6f"
+      }, {
+        "made_on": "2017-08-24",
+        "amount": -1.64,
+        "currency_code": "USD",
+        "description": "Retail MAIB FARM FAM Moscovei Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "643c1b5e2fe2510de34ba694e56e7ffbedd54825e759a3902bcd3afb402e2930"
+      }, {
+        "made_on": "2017-08-24",
+        "amount": 5.52,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "f6245756517de685c6d0d7c1ae92fd9379d8a8ec1ddd32e3bf687db4314da0a3"
+      }, {
+        "made_on": "2017-08-28",
+        "amount": -22.15,
+        "currency_code": "USD",
+        "description": "Retail \"LUKOIL\" PECO 08 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "71772af807e0f863463b087fcdee6c1433c8db510e333d66eafcacbb0e5c00c5"
+      }, {
+        "made_on": "2017-08-28",
+        "amount": -2.71,
+        "currency_code": "USD",
+        "description": "Retail \"LUKOIL\" PECO 08 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "2241b96640d840b7e1229a1aed79f5f16053dbba86dc29f76252b405f27a6816"
+      }, {
+        "made_on": "2017-08-28",
+        "amount": -2.16,
+        "currency_code": "USD",
+        "description": "Retail \"NR.1\" Supermarket F Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "0e38bb4907a93685840f897d58fc78f2fb95d6adcb71b95667ee49c069a1def3"
+      }, {
+        "made_on": "2017-08-28",
+        "amount": 27.7,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "6bd94e014ff4193ce1ef0513028274b52478201703f0087bdd438b81f2a7851a"
+      }, {
+        "made_on": "2017-08-30",
+        "amount": 44.49,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "8930cbc282a4972af6d1f74d49459a9c34364bff236e9a69c9697f915b6158c3"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -35.0,
+        "currency_code": "USD",
+        "description": "Card P2P Debit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "8719afb5a71e1f8a2aa0ee3f46c2961c9dda5adb173f1eb7a816c784bdb139ee"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -0.28,
+        "currency_code": "USD",
+        "description": "RF: Taxa lunara deservire cont",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bank Fees"
+        },
+        "status": "posted",
+        "checksum": "e1d0ad72226674ab871e5fe8b6600cd1365aa6b264ecf90dd3ffde31de7fed87"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -35.0,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "ad698da808d73bd85fffee30918c985b7f375ef92ef524d928b3565635e9b2d4"
+      }, {
+        "made_on": "2017-08-31",
+        "amount": -11.92,
+        "currency_code": "USD",
+        "description": "StarNet",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Internet \u0026 TV"
+        },
+        "status": "posted",
+        "checksum": "8b6bc4dc698856d591b2b0b7a55ea454881f5c7aeb623519cda6f0c7e0883919"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": -3.7,
+        "currency_code": "USD",
+        "description": "Retail MAIB Orient M Basarab Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "17c691044b2e02243bd7239729a5168b5d1624fd1e04ec466bddb5e8678a5b76"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": 8.34,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "158674f5978c703b92b64d55cd5aebff3f7f449806e37127ccb6ad971e6e5682"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": -0.28,
+        "currency_code": "USD",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "21e2fc5a5d080fdc5c76dc3215f6b1556788c5bde3622af752a799dea525dfb5"
+      }, {
+        "made_on": "2017-09-01",
+        "amount": 0.28,
+        "currency_code": "USD",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "08469598eb600d91b87e9a343b785218ad592a9ab1ac6f861b2e53fa0033d03f"
+      }, {
+        "made_on": "2017-09-02",
+        "amount": -1.99,
+        "currency_code": "USD",
+        "description": "Retail GOOGLE *Google Storage 855-836-3987 United States",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "f37b08366b5510e39afcc87e40e60e89b1ffaa10aea6b490c8e3f305716809fc"
+      }, {
+        "made_on": "2017-09-03",
+        "amount": -1.27,
+        "currency_code": "USD",
+        "description": "Retail \"NR.1\" Supermarket H Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "7342b316f7bd0584a71f86d3b0cdc23962e25b628c3f2af06bc5bffde07a2e88"
+      }, {
+        "made_on": "2017-09-03",
+        "amount": 5.56,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "899b20a9adc0d94b1a595daf35a2cce0fe4fdf8809115a11657030ec02f29365"
+      }, {
+        "made_on": "2017-09-05",
+        "amount": -10.0,
+        "currency_code": "USD",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "c6f42c47e0143b57a4cb1003e5394da1df65c20d83d2ddca7c6a2cc4724a41a0"
+      }, {
+        "made_on": "2017-09-08",
+        "amount": -19.94,
+        "currency_code": "USD",
+        "description": "Retail Plati billing wb.micb.md/mobile/ Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "70bc1e1d5fb7e4b1a3a73843e822804042a8f255c6827b6f957775b02a62e419"
+      }, {
+        "made_on": "2017-09-08",
+        "amount": -1.85,
+        "currency_code": "USD",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "56c5d32b09d5156f5a60220d3f2108cef242f12c104bb598832a94651d7614f7"
+      }, {
+        "made_on": "2017-09-08",
+        "amount": -19.94,
+        "currency_code": "USD",
+        "description": "Moldcell",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Phone"
+        },
+        "status": "posted",
+        "checksum": "c643b7956ff7009cf3642766e59158ecac2662a8c7d645bd861f480be0b29882"
+      }, {
+        "made_on": "2017-09-08",
+        "amount": -31.39,
+        "currency_code": "USD",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "50cd97a134d383ae7f72a4c6bbdab602e8e64e55eee4d8fec5ba29adbea40144"
+      }, {
+        "made_on": "2017-09-08",
+        "amount": 200.0,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "266f6643c00bb0e264a9e6e331234966795e905da5ca404079d5b2d6ef171dda"
+      }, {
+        "made_on": "2017-09-08",
+        "amount": 10.0,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "78ceb6c8dd36a621911a8b94ad08855b8215ac8b4696cb751516361af60d6ce5"
+      }, {
+        "made_on": "2017-09-09",
+        "amount": -56.87,
+        "currency_code": "USD",
+        "description": "Retail METRO CASH\u0026CARRY CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "d21924daf338b5db04a2213070826207864ba011a0fd46e2076329b35fbc787a"
+      }, {
+        "made_on": "2017-09-09",
+        "amount": -27.06,
+        "currency_code": "USD",
+        "description": "Retail \"UNU +\" farm. M. Basarab Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "03e91ee2cce1fa4ed53c7471bc309a47d6004e4f62a4fb3c555713fd947087dc"
+      }, {
+        "made_on": "2017-09-09",
+        "amount": -25.69,
+        "currency_code": "USD",
+        "description": "ATM ATM079 \"Onest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "33a0abb37bb215c76f575de95afbe79fc5f50716190c07acf468d24e26a4fb35"
+      }, {
+        "made_on": "2017-09-10",
+        "amount": -37.04,
+        "currency_code": "USD",
+        "description": "Retail MAIB MOLDCO SRL Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "680ea5ebbeb84fa838d8c326919e8e1bdac53abd410fb1d3675b711dc0272466"
+      }, {
+        "made_on": "2017-09-10",
+        "amount": 16.71,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "a87eab74dcadb0530b873274b284e97424d65b3ff80c3c3c48df7166a73265d2"
+      }, {
+        "made_on": "2017-09-13",
+        "amount": -18.4,
+        "currency_code": "USD",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "60d54733a9c01ab06fae6333c850a657dba36bf6120b21b063907c0b19f5c7bf"
+      }, {
+        "made_on": "2017-09-13",
+        "amount": -5.71,
+        "currency_code": "USD",
+        "description": "Retail FOURCHETTE-M RISCANI Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Groceries"
+        },
+        "status": "posted",
+        "checksum": "360deb058f603835808113069c585f8ffa10e3c32410fb46c7c96a7b87f849c0"
+      }, {
+        "made_on": "2017-09-13",
+        "amount": -57.08,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "af359a1562402aaab0816ff5c4dc53fd4295d22ee9e966a2b40bb5c1c2b2a658"
+      }, {
+        "made_on": "2017-09-13",
+        "amount": 100.0,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "5dcebd6bc9a91c4df8ae14712c8442825c7ccb222f383571aef41ad794778d98"
+      }, {
+        "made_on": "2017-09-13",
+        "amount": -2.85,
+        "currency_code": "USD",
+        "description": "Orange",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Phone"
+        },
+        "status": "posted",
+        "checksum": "2dfaac635685b00210a0b08087577af66af1cc67cf86f685f3dddfe460629906"
+      }, {
+        "made_on": "2017-09-14",
+        "amount": 11.2,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "4a8bc0e57a8e0e37e5c062814e2fbd31f5c00cd53d5701a43f09c109e5c358b0"
+      }, {
+        "made_on": "2017-09-14",
+        "amount": -34.34,
+        "currency_code": "USD",
+        "description": "ATM ATM220 MICB Fourchette-2 Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "9e18fe0115acc114a49cb63f851646bee6857aefa82a7525f95fddb91fc43db1"
+      }, {
+        "made_on": "2017-09-15",
+        "amount": -5.14,
+        "currency_code": "USD",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "e93e24dd1aa7799ad244bc70aa8f4fb478970bf5c239cbe346bccd30c566fff8"
+      }, {
+        "made_on": "2017-09-18",
+        "amount": -25.0,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "037b01a317c1a198ae1bee11b2484a875519767c1e78bd196b9db743632bc373"
+      }, {
+        "made_on": "2017-09-18",
+        "amount": -57.21,
+        "currency_code": "USD",
+        "description": "Transfer to another Moldindconbank's card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "66aaf335e783edfcdbd1e70aebc49dfa01f1bc4f00c23db4eb2638dbe24ce1ba"
+      }, {
+        "made_on": "2017-09-18",
+        "amount": -28.65,
+        "currency_code": "USD",
+        "description": "ATM ATM074 \"Alba Iulia\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Decoration"
+        },
+        "status": "posted",
+        "checksum": "51db160c25b1e5208e8cdcd65d1985062dd2c1802090953841a5fcecb34be99f"
+      }, {
+        "made_on": "2017-09-18",
+        "amount": 100.0,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM074 \"Alba Iulia\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "99af51541e58293624a8f26307c57dcb3176af2b424c49a00a0a83a660d5ff6d"
+      }, {
+        "made_on": "2017-09-19",
+        "amount": 28.01,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "5b716ef86109e3ac21d6156a365e1c5ba9a19b8c4b8a6f3d81bfbc652ad63a8a"
+      }, {
+        "made_on": "2017-09-22",
+        "amount": -26.29,
+        "currency_code": "USD",
+        "description": "Retail CINEMATOGRAFUL PATRIA CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "c88d3766ec76b290aaf885964f5e1bf2d25df214b297eef7c11644c2c92364b6"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": -2.58,
+        "currency_code": "USD",
+        "description": "Transfer to another own card",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Transfer"
+        },
+        "status": "posted",
+        "checksum": "f5d65832eeec51d8a433d1c1bb4af8f5409f4003d64c6aeb9cc6364686aa0947"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": -6.53,
+        "currency_code": "USD",
+        "description": "Retail \"LIN 16\" market A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "12337f37add6bd80b67a28d9045f9fe19063117120c932fea15e0588560713c8"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": 2.25,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "bb0bb4587ebac3e7b4005a7596ec932ea841f5ada1e3241c5573deee4cb33984"
+      }, {
+        "made_on": "2017-09-28",
+        "amount": 5.62,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "30b7bc2e2d91528addab1352dc0f0c4cadef50a11e3f50b4c93a810e4081754a"
+      }, {
+        "made_on": "2017-09-30",
+        "amount": -0.28,
+        "currency_code": "USD",
+        "description": "RF: Taxa lunara deservire cont",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bank Fees"
+        },
+        "status": "posted",
+        "checksum": "4fbd330eb53c40ce6db3fbf5352f0af54a2c8c392f799ed4c7ae6fd37ca63968"
+      }, {
+        "made_on": "2017-10-01",
+        "amount": -0.28,
+        "currency_code": "USD",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "7f58da520ccffd2442b3a712da3d6c8cc2f2ad5e5c4eb4e04c53c283151ce0cc"
+      }, {
+        "made_on": "2017-10-01",
+        "amount": 0.28,
+        "currency_code": "USD",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "5ebd3ee9930fc6f35ae66c4fd1b78060bc2525f54e9f57be50c103a948aea1a4"
+      }, {
+        "made_on": "2017-10-02",
+        "amount": -1.99,
+        "currency_code": "USD",
+        "description": "Retail GOOGLE *Google Storage 855-836-3987 United States",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "8b7c3a8f16d83d0848914ec02068a2ca99eae7f969708d8282d5911b406d2969"
+      }, {
+        "made_on": "2017-10-03",
+        "amount": -3.22,
+        "currency_code": "USD",
+        "description": "Retail \"LIN 9\" market A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "a33fdf78cd7449f396489db022c75eec63ae0f16d71ce2de5646799e9739247a"
+      }, {
+        "made_on": "2017-10-03",
+        "amount": 5.67,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "b35bd7e718862964ff5ce2b780b2405fa8d3176d0d7964f116066a5d99f81b18"
+      }, {
+        "made_on": "2017-10-04",
+        "amount": -8.7,
+        "currency_code": "USD",
+        "description": "ATM ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Home"
+        },
+        "status": "posted",
+        "checksum": "b8ae8a1fe0d1f6bcbe90a55db14b156dafcb29af312087cf5d618f4ae5361c06"
+      }, {
+        "made_on": "2017-10-04",
+        "amount": 6.8,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "8c5e9b506a63de0bed12cf6ebf797b2638a03a32e85dcd07dc1b53aaee7dc276"
+      }, {
+        "made_on": "2017-10-26",
+        "amount": 2.87,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "7aa765dd09ddc29bf398ec1d75f95a44f5a5205f48e584f3ac1180a81585bdc7"
+      }, {
+        "made_on": "2017-10-27",
+        "amount": -1.3,
+        "currency_code": "USD",
+        "description": "Retail \"LIN 9\" market A Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "3b37a3e8dfd721d8f4ba6aea7db3e7b073da975223dd9357d974512ffc39f1a2"
+      }, {
+        "made_on": "2017-10-31",
+        "amount": -0.29,
+        "currency_code": "USD",
+        "description": "RF: Taxa lunara deservire cont",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bank Fees"
+        },
+        "status": "posted",
+        "checksum": "801efb99d43ee0173a88c8adef1eb2be7865c54deafb6ebcd6aac4131b5ba42e"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": -13.29,
+        "currency_code": "USD",
+        "description": "Retail NIPON AUTO(Service) CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "74f1bc03f2afd519e2d0d68f9237912586e15497c4421a2f53956d1671e09cbb"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": -2.17,
+        "currency_code": "USD",
+        "description": "Retail PAYPAL *PATREON 4029357733 United States",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "c728cad4d59d519aebdb35e922486154c82808dd91de43b39f1620e6e380ae95"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": 21.64,
+        "currency_code": "USD",
+        "description": "Card orig. credit MOB_BANKING Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "fbe5f845c6c0f8fde9285875fdaf1df1c8f9a429ffc8805565416df82d3f0460"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": 0.29,
+        "currency_code": "USD",
+        "description": "uFR1 -\u003e Cl Deposit (Write-off state)",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Investment Income"
+        },
+        "status": "posted",
+        "checksum": "f5a3d88ccb5f9196449572f7766d6fce21b1a65b800bbba65886c06d0efd0b71"
+      }, {
+        "made_on": "2017-11-01",
+        "amount": -0.29,
+        "currency_code": "USD",
+        "description": "Credit Account: Client Account --\u003e Bank Account",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Tax \u0026 Fines"
+        },
+        "status": "posted",
+        "checksum": "4d307047861a8b36176e95970ab531734dcc969618c74d283ccce6b908becb1a"
+      }, {
+        "made_on": "2017-11-02",
+        "amount": -1.99,
+        "currency_code": "USD",
+        "description": "Retail GOOGLE *Google Storage 855-836-3987 United States",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "d171a418937305c5ad4afebfe9caa391f7b60efc2aea4670ccb582e7f40c1ab2"
+      }, {
+        "made_on": "2017-11-03",
+        "amount": -50.0,
+        "currency_code": "USD",
+        "description": "CBC generation",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Dining Out"
+        },
+        "status": "pending",
+        "checksum": "71e5b897777753654a4f0beb5dedab176973fdbf37569bb659614944ac16edda"
+      }, {
+        "made_on": "2017-11-07",
+        "amount": 200.0,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "7f93de2f3a6f759745705fa5bd4c8cf2fb9f5eab490666ab702d3724815d0851"
+      }, {
+        "made_on": "2017-11-07",
+        "amount": 100.0,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "e1326282818eff2fa6ec741272a8177d7461a8b2670bb04130e550ef80aae448"
+      }, {
+        "made_on": "2017-11-07",
+        "amount": -60.0,
+        "currency_code": "USD",
+        "description": "ATM ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Home"
+        },
+        "status": "posted",
+        "checksum": "a9c246601fa242bb92a51d996bd845eca34936b2e62cefa99c81b09080949fc8"
+      }, {
+        "made_on": "2017-11-07",
+        "amount": 39.55,
+        "currency_code": "USD",
+        "description": "ATM Cash-In ATM044 \"Invest\" Chisinau (mun.) - Chisinau Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Bonus"
+        },
+        "status": "posted",
+        "checksum": "b7d6a29adfeab54c91bd9e64435c292898609347f73f25d9461f64dced32242b"
+      }, {
+        "made_on": "2017-11-08",
+        "amount": -31.29,
+        "currency_code": "USD",
+        "description": "Retail DATSCHA BERLIN Germany",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "31a564cd4ded9a6161394d664720b5691b91fa9e4e5ff50e57a6b8ee7071e244"
+      }, {
+        "made_on": "2017-11-08",
+        "amount": -6.66,
+        "currency_code": "USD",
+        "description": "Retail S-BAHN BERLIN BERLIN Germany",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "51979e7d07d93767f88a995f78aad581e3f82b442e5db1c4c4758dfa5056cc7c"
+      }, {
+        "made_on": "2017-11-08",
+        "amount": -52.58,
+        "currency_code": "USD",
+        "description": "Retail BISTO MADAMI BERLIN Germany",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "7ea848af003da698f8bcebe528a46d569813332aa6953f96e3baa0ea4c4e8a25"
+      }, {
+        "made_on": "2017-11-08",
+        "amount": -6.66,
+        "currency_code": "USD",
+        "description": "Retail BVG BERLIN Germany",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "a8ef9cec733374d3d19fb5623412e6d3f5df437f24ee5d9f55a7fc66619f4da1"
+      }, {
+        "made_on": "2017-11-08",
+        "amount": -23.2,
+        "currency_code": "USD",
+        "description": "Retail DUTY-FREE AEROPORT CHISINAU Moldova, Rep. Of",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "b0f910ecb25bad56396308535e27e33de6bb893aee2988936dfe02209616cf8e"
+      }, {
+        "made_on": "2017-11-09",
+        "amount": -6.68,
+        "currency_code": "USD",
+        "description": "Retail BVG BERLIN Germany",
+        "mode": "normal",
+        "extra": {
+          "original_category": "Shopping"
+        },
+        "status": "posted",
+        "checksum": "0573b326640d67d7379b73fae423c1c200f208ca3903d117ca9f9c3a2bf76933"
+      }]
+    }]
+  }
+}
