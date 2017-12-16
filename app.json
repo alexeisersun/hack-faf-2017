@@ -1,0 +1,29 @@
+{
+  "name": "API.AI Telegram integration",
+  "description": "Api.ai Telegram integration allows you to create Telegram bots with natural language understanding based on Api.ai technology.",
+  "repository": "https://github.com/api-ai/apiai-telegram-bot",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "telegram", "natural language"],
+  "env": {
+    "APP_NAME": {
+      "description": "FAF Hack 2017",
+      "value": ""
+    },
+    "TELEGRAM_TOKEN": {
+      "description": "",
+      "value": "481593624:AAGG5_VQNa_D6-LYBESdsRjslJfjlyiupe8"
+    },
+    "APIAI_ACCESS_TOKEN": {
+      "description": "",
+      "value": "88af502cd17f450493c75f96464851b5"
+    },
+    "APIAI_LANG": {
+      "description": "Agent language",
+      "value": "en",
+      "required": false
+    }
+  },
+  "engines": {
+    "node": "5.10.1"
+  }
+}

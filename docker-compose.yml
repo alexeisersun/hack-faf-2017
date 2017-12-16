@@ -1,0 +1,10 @@
+version: '2'
+services:
+    faf_hack_bot:
+        build: . 
+        command: npm start
+        volumes:
+        - .:/app:rw
+        - /app/node_modules
+        ports:
+        - "4000:5000"
