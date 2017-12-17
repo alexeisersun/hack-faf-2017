@@ -26,7 +26,7 @@ const TelegramBotConfig = require('./telegrambotconfig');
 const REST_PORT = (process.env.PORT || 5000);
 const DEV_CONFIG = process.env.DEVELOPMENT_CONFIG == 'true';
 
-const APP_NAME = process.env.APP_NAME;
+const APP_NAME = process.env.APP_NAME || "fathomless-sea-97217";
 const APIAI_ACCESS_TOKEN = process.env.APIAI_ACCESS_TOKEN || '88af502cd17f450493c75f96464851b5';
 const APIAI_LANG = process.env.APIAI_LANG;
 const TELEGRAM_TOKEN = process.env.TELEGRAM_TOKEN || '481593624:AAGG5_VQNa_D6-LYBESdsRjslJfjlyiupe8';
