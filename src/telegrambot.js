@@ -19,7 +19,8 @@
 const apiai = require('apiai');
 const uuid = require('node-uuid');
 const request = require('request');
-const converter = require('./converter')
+const converter = require('./converter');
+const utils = require('./utils');
 
 module.exports = class TelegramBot {
 
@@ -139,22 +140,28 @@ module.exports = class TelegramBot {
 
                         } else if (TelegramBot.isDefined(responseText)) {
                             // console.log('Response as text message');
-
-                            if (responseIntent === "money.convertor.currency")
+                            console.log('responseIntent ', responseIntent);
+                            if (responseIntent === "money.convertor.currency") {
                                 converter.convert(1, "USD", "MDL").then((val) => {
                                     this.reply({chat_id: chatId, text: responseText + val});
                                     TelegramBot.createResponse(res, 200, 'Message processed');
                                 }); 
+                            } else if (responseIntent === "current.balance") {
+                                let foo = utils.allAccountsBalance();
+                                console.log(foo);
+                                let current_balance = "";
+                                for (var i = foo.length - 1; i >= 0; i--) {
+                                    current_balance += "\nOn account " + foo[i]['name'] + " : " +
+                                        foo[i]['balance'] + " " + foo[i]['currency'] + ". ";
+                                }
 
-
-
-
-
-                            else {
+                                
+                                this.reply({chat_id: chatId, text: responseText +current_balance});
+                                TelegramBot.createResponse(res, 200, 'Message processed');
+                            } else {
                                 this.reply({chat_id: chatId, text: responseText});
                                 TelegramBot.createResponse(res, 200, 'Message processed');
                             }
-                            
                         } else {
                             // console.log('Received empty speech');
                             TelegramBot.createResponse(res, 200, 'Received empty speech');
