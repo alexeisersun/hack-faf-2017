@@ -132,42 +132,56 @@ module.exports = class TelegramBot {
                         let responseIntent = response.result.metadata.intentName;
 
                         if (TelegramBot.isDefined(responseData) && TelegramBot.isDefined(responseData.telegram)) {
-                            // console.log('Response as formatted message');
+                            console.log('responseIntent 1', responseIntent);
                             let telegramMessage = responseData.telegram;
                             telegramMessage.chat_id = chatId;
                             this.reply(telegramMessage);
                             TelegramBot.createResponse(res, 200, 'Message processed');
-
+                            console.log("Hakuna Matata");
                         } else if (TelegramBot.isDefined(responseText)) {
-                            // console.log('Response as text message');
-                            console.log('responseIntent ', responseIntent);
+                            console.log('responseIntent 2', responseIntent);
                             if (responseIntent === "money.convertor.currency") {
-                                converter.convert(1, "USD", "MDL").then((val) => {
+                                converter.convert(1, "USD",response.result.parameters.currency).then((val) => {
                                     this.reply({chat_id: chatId, text: responseText + val});
                                     TelegramBot.createResponse(res, 200, 'Message processed');
                                 }); 
                             } else if (responseIntent === "current.balance") {
                                 let foo = utils.allAccountsBalance();
-                                console.log(foo);
                                 let current_balance = "";
                                 for (var i = foo.length - 1; i >= 0; i--) {
                                     current_balance += "\nOn account " + foo[i]['name'] + " : " +
                                         foo[i]['balance'] + " " + foo[i]['currency'] + ". ";
                                 }
-
-                                
-                                this.reply({chat_id: chatId, text: responseText +current_balance});
+                                this.reply({chat_id: chatId, text: responseText + current_balance});
                                 TelegramBot.createResponse(res, 200, 'Message processed');
+                            } else if (responseIntent === "max.expenses.domain.period") {
+                                let max_expenses = "";
+                                let accounts = utils.getAccounts();
+
+                                console.log("accounts", accounts);
+                                for (let index in accounts) {
+                                    let expense;
+                                    expense = utils.getMostExpenseCategory(accounts[index]);
+                                        max_expenses += '\nFrom account ' 
+                                            + accounts[index] + ' more on '
+                                            + expense.category + " (namely " + expense.amount.toFixed(2)
+                                            + " " + expense.currency + ").";
+                                }
+                                console.log("Max expense ", max_expenses);
+                                this.reply({chat_id: chatId, text: responseText + max_expenses});
+                                TelegramBot.createResponse(res, 200, 'Message processed');
+                            } else if (false) {
+
                             } else {
                                 this.reply({chat_id: chatId, text: responseText});
                                 TelegramBot.createResponse(res, 200, 'Message processed');
                             }
                         } else {
-                            // console.log('Received empty speech');
+                            console.log('Received empty speech');
                             TelegramBot.createResponse(res, 200, 'Received empty speech');
                         }
                     } else {
-                        // console.log('Received empty result');
+                        console.log('Received empty result');
                         TelegramBot.createResponse(res, 200, 'Received empty result');
                     }
                 });
@@ -179,11 +193,11 @@ module.exports = class TelegramBot {
                 apiaiRequest.end();
             }
             else {
-                // console.log('Empty message');
+                console.log('Empty message');
                 return TelegramBot.createResponse(res, 200, 'Empty message');
             }
         } else {
-            // console.log('Empty message');
+            console.log('Empty message');
             return TelegramBot.createResponse(res, 200, 'Empty message');
         }
     }

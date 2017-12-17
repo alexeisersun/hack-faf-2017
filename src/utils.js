@@ -21,7 +21,15 @@ module.exports = class Utils {
         return ret;
     }
 
-    static getAccounByName(name) {
+    static getAccounts() {
+        let accounts = content.data.accounts;
+        let accounts_names = [];
+        for (let index in accounts)
+            accounts_names.push(accounts[index].name);
+        return accounts_names;
+    }
+
+    static getAccountByName(name) {
         let accounts = content.data.accounts;
         for (let index in accounts) {
             if (accounts[index].name === name) {
@@ -32,20 +40,20 @@ module.exports = class Utils {
     }
 
     static getAccountBalance(name) {
-        let found = getAccounByName(name);
+        let found = getAccountByName(name);
         return {"amount" : found.balance, 
             "currency": found.currency_code}
     }
 
     static getTransactionsByDay(date, accountName) {
-        let found = getAccounByName(accountName);
+        let found = getAccountByName(accountName);
         date = new Date(date);
         return found.transactions.filter(item => 
             new Date(item.made_on).getTime() == date.getTime());
     }
 
     static getTransactionsByMonth(date, accountName){
-        let found = getAccounByName(accountName);
+        let found = getAccountByName(accountName);
         date = new Date(date);
         return found.transactions.filter(item => 
             new Date(item.made_on).getMonth() == date.getMonth() &&
@@ -53,7 +61,7 @@ module.exports = class Utils {
     }
 
     static getMostExpenseCategory(accountName){
-        let found = getAccounByName(accountName);
+        let found = this.getAccountByName(accountName);
         let category_cost = {};
         for(let t_index in found.transactions){
             let t = found.transactions[t_index]
