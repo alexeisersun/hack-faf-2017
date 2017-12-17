@@ -175,8 +175,25 @@ module.exports = class TelegramBot {
                                 console.log("Max expense ", max_expenses);
                                 this.reply({chat_id: chatId, text: responseText + max_expenses});
                                 TelegramBot.createResponse(res, 200, 'Message processed');
-                            } else if (false) {
-
+                            } else if (responseIntent === 'last.expenses') {
+                                let date = response.result.parameters.date;
+                                let message = '\n';
+                                let accounts = utils.getAccounts();
+                                let transactions;
+                                for (var i = 0; i < accounts.length; i++) {
+                                    transactions = utils.getTransactionsByDay(date, accounts[i])
+                                    if (transactions.length == 0) {
+                                        message += `Nothing on ${accounts[i]} account. Hopefully!\n\n`
+                                    } else {
+                                        message += `On your ${accounts[i]} account:\n`
+                                        for (var i = 0; i < transactions.length; i++) {
+                                            let t = transactions[i];
+                                            message += `${t.amount} ${t.currency_code} for ${t.extra.original_category}\n`;
+                                        }
+                                    }
+                                }
+                                this.reply({chat_id: chatId, text: responseText + message});
+                                TelegramBot.createResponse(res, 200, 'Message processed');
                             } else {
                                 this.reply({chat_id: chatId, text: responseText});
                                 TelegramBot.createResponse(res, 200, 'Message processed');

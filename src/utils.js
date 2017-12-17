@@ -40,20 +40,20 @@ module.exports = class Utils {
     }
 
     static getAccountBalance(name) {
-        let found = getAccountByName(name);
+        let found = this.getAccountByName(name);
         return {"amount" : found.balance, 
             "currency": found.currency_code}
     }
 
     static getTransactionsByDay(date, accountName) {
-        let found = getAccountByName(accountName);
+        let found = this.getAccountByName(accountName);
         date = new Date(date);
         return found.transactions.filter(item => 
             new Date(item.made_on).getTime() == date.getTime());
     }
 
     static getTransactionsByMonth(date, accountName){
-        let found = getAccountByName(accountName);
+        let found = this.getAccountByName(accountName);
         date = new Date(date);
         return found.transactions.filter(item => 
             new Date(item.made_on).getMonth() == date.getMonth() &&
