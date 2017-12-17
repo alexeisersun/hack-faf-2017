@@ -1,0 +1,29 @@
+[33mcommit bf2ed7d81b2a61b0885cb33392532b8412eca3b4[m
+Author: Alexei Sersun <alex.sersun@yahoo.com>
+Date:   Sun Dec 17 03:00:20 2017 +0200
+
+    Integrate accounts' info.
+
+[33mcommit 600c6a4cd02104a7403448c6d71c490624f3d2b2[m
+Author: Alexei Sersun <alex.sersun@yahoo.com>
+Date:   Sun Dec 17 01:39:01 2017 +0200
+
+    Integrate a converter for currency.
+
+[33mcommit 569463a8bf7594b3e90bf97b7a3602fc91ab3a70[m
+Author: Alexei Sersun <alex.sersun@yahoo.com>
+Date:   Sat Dec 16 22:47:20 2017 +0200
+
+    Add database. Update README.md.
+
+[33mcommit 725623eab028bfd7b48a88e14903eaab9967233f[m
+Author: Alexei Sersun <alex.sersun@yahoo.com>
+Date:   Sat Dec 16 19:48:47 2017 +0200
+
+    Create basic Docker image for Dialogflow server.
+
+[33mcommit af053f0841db7a1655b00eddf925c68ee0a2345c[m
+Author: Alexei Sersun <alex.sersun@yahoo.com>
+Date:   Sat Dec 16 13:07:07 2017 +0200
+
+    Init commit.

@@ -32,20 +32,20 @@ module.exports = class Utils {
     }
 
     static getAccountBalance(name) {
-        let found = getAccounByName(name);
+        let found = Utils.getAccounByName(name);
         return {"amount" : found.balance, 
             "currency": found.currency_code}
     }
 
     static getTransactionsByDay(date, accountName) {
-        let found = getAccounByName(accountName);
+        let found = Utils.getAccounByName(accountName);
         date = new Date(date);
         return found.transactions.filter(item => 
             new Date(item.made_on).getTime() == date.getTime());
     }
 
     static getTransactionsByMonth(date, accountName){
-        let found = getAccounByName(accountName);
+        let found = Utils.getAccounByName(accountName);
         date = new Date(date);
         return found.transactions.filter(item => 
             new Date(item.made_on).getMonth() == date.getMonth() &&
@@ -53,7 +53,7 @@ module.exports = class Utils {
     }
 
     static getMostExpenseCategory(accountName){
-        let found = getAccounByName(accountName);
+        let found = Utils.getAccounByName(accountName);
         let category_cost = {};
         for(let t_index in found.transactions){
             let t = found.transactions[t_index]
@@ -72,5 +72,15 @@ module.exports = class Utils {
         return {"category" : min_cat, 
                 "amount" : category_cost[min_cat],
                 "currency" : found.currency_code}
+    }
+
+    static getTransactionsInPeriod(fromDate, toDate, accountName){
+        let found = Utils.getAccounByName(accountName)
+        let fromDateTime = new Date(fromDate).getTime()
+        let toDateTime = new Date(toDate).getTime()
+        return found.transactions.filter(value =>{
+            return new Date(value.made_on).getTime() >= fromDateTime && 
+                   new Date(value.made_on).getTime() <= toDateTime;
+        })
     }
 }
