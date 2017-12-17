@@ -141,9 +141,14 @@ module.exports = class TelegramBot {
                         } else if (TelegramBot.isDefined(responseText)) {
                             console.log('responseIntent 2', responseIntent);
                             if (responseIntent === "money.convertor.currency") {
-                                converter.convert(1, "USD",response.result.parameters.currency).then((val) => {
-                                    this.reply({chat_id: chatId, text: responseText + val});
-                                    TelegramBot.createResponse(res, 200, 'Message processed');
+                                    let finalCurrency = response.result.parameters['currency-name'];
+                                    let accountBalance = utils.allAccountsBalance();
+                                    let message = ` It seems that, converted to ${finalCurrency} you have ` ;
+                                    converter.convert(accountBalance[0]['balance'], accountBalance[0]['currency'], finalCurrency)
+                                        .then((val) => {
+                                            message += `${val.toFixed(2)} ${finalCurrency} on your current account.`
+                                            this.reply({chat_id: chatId, text: responseText + message});
+                                            TelegramBot.createResponse(res, 200, 'Message processed');
                                 }); 
                             } else if (responseIntent === "current.balance") {
                                 let foo = utils.allAccountsBalance();

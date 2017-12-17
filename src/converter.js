@@ -10,7 +10,7 @@ module.exports = class CurrencyConverter {
       request.get(url, (error, response, body) => {
         if (response.statusCode == 200 || response.statusCode == 304) {
           let json = JSON.parse(body);
-          resolve(json.results.USD_MDL.val * initAmount);
+          resolve(json.results[initCurrency + '_' + finalCurrency].val * initAmount);
         }
         else {
           reject(Error("It broke. code: " + response));
